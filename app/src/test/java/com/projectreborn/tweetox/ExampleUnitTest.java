@@ -1,4 +1,4 @@
-package eoenesapps.phoenixreborn;
+package com.projectreborn.tweetox;
 
 import org.junit.Test;
 

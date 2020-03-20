@@ -1,4 +1,4 @@
-package eoenesapps.phoenixreborn;
+package com.projectreborn.tweetox;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("eoenesapps.phoenixreborn", appContext.getPackageName());
+        assertEquals("com.projectreborn.tweetox", appContext.getPackageName());
     }
 }
