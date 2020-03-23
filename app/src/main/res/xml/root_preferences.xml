@@ -1,0 +1,22 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <ListPreference
+        app:defaultValue="dark"
+        app:entries="@array/themeEntries"
+        app:entryValues="@array/themeVals"
+        app:key="theme"
+        app:title="@string/themeTitle"
+        app:useSimpleSummaryProvider="true" />
+
+
+    <ListPreference
+        app:defaultValue="sixHours"
+        app:entries="@array/refreshIntervalEntries"
+        app:entryValues="@array/refreshIntervalVals"
+        app:key="refreshInt"
+        app:title="@string/refreshIntTitle"
+        app:useSimpleSummaryProvider="true" />
+
+
+</PreferenceScreen>
