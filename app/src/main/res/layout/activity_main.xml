@@ -17,7 +17,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:menu="@menu/bottom_nav_menu"
-        app:background="?android:attr/colorBackground"
+        app:background="?android:attr/navigationBarColor"
         />
 
     <!--style="@style/BottomNavigationLight"!-->
