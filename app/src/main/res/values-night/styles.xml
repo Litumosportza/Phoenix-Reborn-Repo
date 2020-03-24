@@ -1,13 +1,14 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
-        <item name="colorPrimary">@android:color/white</item>
-        <item name="colorSecondary">@android:color/black</item>
-        <item name="colorAccent">@android:color/black</item>
-        <item name="android:textColor">@android:color/black</item>
-        <item name="hintTextColor">@android:color/black</item>
-        <item name="android:windowBackground">@android:color/white</item>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight">
+        <item name="colorPrimary">@android:color/black</item>
+        <item name="colorSecondary">@android:color/white</item>
+        <item name="colorAccent">@android:color/white</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="hintTextColor">@android:color/white</item>
+        <item name="android:windowBackground">@android:color/black</item>
+
 
     </style>
 

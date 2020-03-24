@@ -11,6 +11,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatDelegate;
 import androidx.preference.ListPreference;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceFragmentCompat;
@@ -28,23 +29,37 @@ public  class SettingsActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-
+/*
         SharedPreferences sharedPref = this.getPreferences(Context.MODE_PRIVATE);
-        String themeChoice = sharedPref.getString("theme", "dark");
-
-        Resources res = getResources();
-        TypedArray themesInArray = res.obtainTypedArray(R.array.themeVals);
-        themesInArray.getString(0)
-
-
+        String themeChoice = sharedPref.getString("theme", "light");
         switch(themeChoice){
-            case Objects.requireNonNull(themesInArray.getString(0)):
-//fixing this part
+            case "dark":
+                AppCompatDelegate.setDefaultNightMode(
+                        AppCompatDelegate.MODE_NIGHT_YES);
+                break;
+            case "light":
+                AppCompatDelegate.setDefaultNightMode(
+                        AppCompatDelegate.MODE_NIGHT_NO);
+                break;
+            default:
+                AppCompatDelegate.setDefaultNightMode(
+                        AppCompatDelegate.MODE_NIGHT_YES);
+                break;
         }
+*/
 
-        setTheme(R.style.lightTheme);
+        SharedPreferences sharedPreference = PreferenceManager.getDefaultSharedPreferences(Objects.requireNonNull(getApplicationContext()));
+        String themeSetting = sharedPreference.getString("theme", null);
+        assert themeSetting != null;
+        if(themeSetting.equals("dark")) {
+            AppCompatDelegate.setDefaultNightMode(
+                    AppCompatDelegate.MODE_NIGHT_YES);
+        }
+        else if(themeSetting.equals("light")) {
+            AppCompatDelegate.setDefaultNightMode(
+                    AppCompatDelegate.MODE_NIGHT_NO);
 
-        themesInArray.recycle();
+        }
 
         super.onCreate(savedInstanceState);
 
@@ -94,23 +109,14 @@ public  class SettingsActivity extends AppCompatActivity {
 
         }
 
-        SharedPreferences sharedPreferences = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
         SharedPreferences.OnSharedPreferenceChangeListener spChanged = new
                 SharedPreferences.OnSharedPreferenceChangeListener() {
                     @Override
                     public void onSharedPreferenceChanged(SharedPreferences sharedPreferences,
                                                           String key) {
-                        if(listPreference.getValue().equals("dark")){
-                            getTheme().applyStyle(R.style.darkTheme, true);
-                            setTheme(R.style.darkTheme);
-                        }
-                        else if(listPreference.getValue().equals("light")){
-                            getTheme().applyStyle(R.style.lightTheme, true);
-                            setTheme(R.style.lightTheme);
-                        }
-
-                       finish();
-                       startActivity(getIntent());
+                        Intent intent = getIntent();
+                        finish();
+                        startActivity(intent);
                     //FOUNDBOARD
                     }
                 };

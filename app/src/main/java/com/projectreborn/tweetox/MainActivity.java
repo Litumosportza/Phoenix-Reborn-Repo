@@ -1,6 +1,7 @@
 package com.projectreborn.tweetox;
 
 import android.annotation.SuppressLint;
+import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.ColorStateList;
@@ -13,10 +14,16 @@ import com.google.android.material.bottomnavigation.LabelVisibilityMode;
 import com.projectreborn.tweetox.ui.login.LoginActivity;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatDelegate;
 import androidx.navigation.NavController;
 import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
+import androidx.preference.PreferenceManager;
+
+import java.util.Objects;
+
+import static java.security.AccessController.getContext;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -26,8 +33,26 @@ public class MainActivity extends AppCompatActivity {
     @SuppressLint("ApplySharedPref")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+        //SharedPreferences sharedPref = this.getPreferences(Context.MODE_PRIVATE);
+        //^^wrong way to get shared prefs...
+        //String themeChoice = sharedPref.getString("theme", "light");
+       /* SharedPreferences sharedPreference = PreferenceManager.getDefaultSharedPreferences(Objects.requireNonNull(getApplicationContext()));
+        String themeSetting = sharedPreference.getString("theme", null);
+        assert themeSetting != null;
+        if(themeSetting.equals("dark")) {
+            AppCompatDelegate.setDefaultNightMode(
+                    AppCompatDelegate.MODE_NIGHT_YES);
+        }
+        else if(themeSetting.equals("light")) {
+                AppCompatDelegate.setDefaultNightMode(
+                        AppCompatDelegate.MODE_NIGHT_NO);
+
+        }
+
+*/
         super.onCreate(savedInstanceState);
-        setTheme(R.style.lightTheme);
+
 
 
         SharedPreferences loginPrefs = getSharedPreferences("Luke", MODE_PRIVATE);
