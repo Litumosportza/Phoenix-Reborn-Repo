@@ -5,6 +5,7 @@
         android:id="@+id/item1"
         android:icon="@drawable/settings_button"
         android:orderInCategory="10"
-        android:title="Settings"
-        app:showAsAction="ifRoom" />
+        android:title="@string/settings"
+        app:showAsAction="ifRoom"
+         />
 </menu>

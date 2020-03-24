@@ -7,7 +7,7 @@
         app:entryValues="@array/themeVals"
         app:key="theme"
         app:title="@string/themeTitle"
-        app:useSimpleSummaryProvider="true" />
+        app:summary="%s" />
 
 
     <ListPreference

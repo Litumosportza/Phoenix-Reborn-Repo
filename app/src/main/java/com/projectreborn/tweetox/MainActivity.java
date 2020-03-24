@@ -4,6 +4,7 @@ import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.ColorStateList;
+import android.content.res.Resources;
 import android.graphics.Color;
 import android.os.Bundle;
 
@@ -26,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setTheme(R.style.lightTheme);
 
 
         SharedPreferences loginPrefs = getSharedPreferences("Luke", MODE_PRIVATE);
@@ -44,10 +46,10 @@ public class MainActivity extends AppCompatActivity {
             NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
             NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration); //no navbar currently being used.
             NavigationUI.setupWithNavController(navView, navController);
-            navView.setBackgroundColor(getResources().getColor(R.color.darkGrey));
+          /*  navView.setBackgroundColor(getResources().getColor(R.color.darkGrey));
             navView.setItemRippleColor(ColorStateList.valueOf(Color.WHITE));
             navView.setLabelVisibilityMode(LabelVisibilityMode.LABEL_VISIBILITY_LABELED);
-            navView.setItemIconTintList(ColorStateList.valueOf(Color.WHITE));
+            navView.setItemIconTintList(ColorStateList.valueOf(Color.WHITE)); */
 
 
         } else {

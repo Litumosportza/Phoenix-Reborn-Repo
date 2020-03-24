@@ -19,6 +19,7 @@
     <string name="themeTitle">Theme</string>
 
     <string name="refreshIntTitle">Refresh Interval</string>
+    <string name="settings">Settings</string>
 
 
 </resources>
