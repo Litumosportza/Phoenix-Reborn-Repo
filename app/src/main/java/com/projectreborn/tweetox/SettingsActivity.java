@@ -1,31 +1,24 @@
 package com.projectreborn.tweetox;
 
-import android.app.Activity;
-import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.content.res.Resources;
-import android.content.res.TypedArray;
 import android.os.Bundle;
-import android.widget.Toast;
+
+import java.util.Objects;
 
 import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.app.AppCompatDelegate;
 import androidx.preference.ListPreference;
-import androidx.preference.Preference;
 import androidx.preference.PreferenceFragmentCompat;
 import androidx.preference.PreferenceManager;
-
-import java.util.Objects;
 
 public  class SettingsActivity extends AppCompatActivity {
     public static boolean isDarkThemeOn = false;
 
     public static boolean isLightThemeOn = false;
     public static ListPreference listPreference;
-    public static final String
-            THEME_SWITCH = "themeType";
+    public static final String THEME_SWITCH = "themeType";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -61,6 +54,7 @@ public  class SettingsActivity extends AppCompatActivity {
 
         }
 
+
         super.onCreate(savedInstanceState);
 
 
@@ -82,9 +76,11 @@ public  class SettingsActivity extends AppCompatActivity {
     }
 
 
-    @Override //When you press back, it goes back
+    @Override //When you press back, it goes back (back btns in settings)
     public boolean onSupportNavigateUp() {
         finish();
+        Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+        startActivity(intent);
         return true;
     }
 
@@ -128,7 +124,10 @@ public  class SettingsActivity extends AppCompatActivity {
         Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
     }
-    }
+
+
+}
+
 
 
 

@@ -1,8 +1,8 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.DayNight">
-        <item name="colorPrimary">@android:color/black</item>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight">
+        <item name="colorPrimary">@android:color/white</item>
         <item name="colorSecondary">@android:color/white</item>
         <item name="colorAccent">@android:color/white</item>
         <item name="android:textColor">@android:color/white</item>
@@ -12,11 +12,15 @@
 
     </style>
 
+    <style name="bottomNavBarLightConf" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="itemTextAppearanceActive">@color/white</item>
+        <item name="itemTextAppearanceInactive">@color/white</item>
+        <item name="android:background">@color/black</item>
+        <item name="iconTint">@color/white</item>
 
 
-    <style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
-        @null
     </style>
+
 
     <style name="BottomNavigationLight" parent="BottomNavigationLight" tools:ignore="ResourceCycle">
         <item name="android:background">@android:color/white</item>

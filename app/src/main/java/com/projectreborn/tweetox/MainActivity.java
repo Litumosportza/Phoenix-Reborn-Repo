@@ -1,17 +1,14 @@
 package com.projectreborn.tweetox;
 
 import android.annotation.SuppressLint;
-import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.content.res.ColorStateList;
-import android.content.res.Resources;
-import android.graphics.Color;
 import android.os.Bundle;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.google.android.material.bottomnavigation.LabelVisibilityMode;
 import com.projectreborn.tweetox.ui.login.LoginActivity;
+
+import java.util.Objects;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.app.AppCompatDelegate;
@@ -21,10 +18,6 @@ import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 import androidx.preference.PreferenceManager;
 
-import java.util.Objects;
-
-import static java.security.AccessController.getContext;
-
 public class MainActivity extends AppCompatActivity {
 
     public static boolean isLoggedIn = true;
@@ -33,24 +26,6 @@ public class MainActivity extends AppCompatActivity {
     @SuppressLint("ApplySharedPref")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-
-        //SharedPreferences sharedPref = this.getPreferences(Context.MODE_PRIVATE);
-        //^^wrong way to get shared prefs...
-        //String themeChoice = sharedPref.getString("theme", "light");
-       /* SharedPreferences sharedPreference = PreferenceManager.getDefaultSharedPreferences(Objects.requireNonNull(getApplicationContext()));
-        String themeSetting = sharedPreference.getString("theme", null);
-        assert themeSetting != null;
-        if(themeSetting.equals("dark")) {
-            AppCompatDelegate.setDefaultNightMode(
-                    AppCompatDelegate.MODE_NIGHT_YES);
-        }
-        else if(themeSetting.equals("light")) {
-                AppCompatDelegate.setDefaultNightMode(
-                        AppCompatDelegate.MODE_NIGHT_NO);
-
-        }
-
-*/
         super.onCreate(savedInstanceState);
 
 
@@ -81,6 +56,21 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(this, LoginActivity.class);
             startActivity(intent);
         }
+
+        //Ensures the correct theme loads, upon updating
+        SharedPreferences sharedPreference = PreferenceManager.getDefaultSharedPreferences(Objects.requireNonNull(getApplicationContext()));
+        String themeSetting = sharedPreference.getString("theme", null);
+        assert themeSetting != null;
+        if (themeSetting.equals("dark")) {
+            AppCompatDelegate.setDefaultNightMode(
+                    AppCompatDelegate.MODE_NIGHT_YES);
+        } else if (themeSetting.equals("light")) {
+            AppCompatDelegate.setDefaultNightMode(
+                    AppCompatDelegate.MODE_NIGHT_NO);
+
+        }
+
+
 
 
     }

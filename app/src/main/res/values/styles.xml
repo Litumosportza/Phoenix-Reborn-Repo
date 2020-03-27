@@ -1,7 +1,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight">
         <item name="colorPrimary">@android:color/white</item>
         <item name="colorSecondary">@android:color/black</item>
         <item name="colorAccent">@android:color/black</item>
@@ -11,11 +11,32 @@
 
     </style>
 
+    <style name="LightActionBarStyle" parent="@style/AppTheme">
+        <item name="titleTextAppearance">@color/black</item>
+        <item name="backgroundColor">@color/white</item>
+        <item name="titleTextColor">@color/black</item>
+        <item name="colorPrimary">@color/white</item>
 
 
-    <style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
-        @null
     </style>
+
+    <style name="bottomNavBarLightConf" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="itemTextAppearanceActive">@color/black</item>
+        <item name="itemTextAppearanceInactive">@color/black</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="iconTint">@color/black</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSurface">@color/black</item>
+        <item name="android:colorPressedHighlight">@color/black</item>
+        <item name="itemIconTint">@color/black</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="textAppearanceButton">@color/black</item>
+        <item name="itemTextColor">@color/black</item>
+        <item name="itemTextAppearance">@color/black</item>
+
+
+    </style>
+
 
     <style name="BottomNavigationLight" parent="BottomNavigationLight" tools:ignore="ResourceCycle">
         <item name="android:background">@android:color/white</item>
