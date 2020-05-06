@@ -7,6 +7,7 @@ import android.os.Bundle;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.projectreborn.tweetox.ui.login.LoginActivity;
+import com.projectreborn.tweetox.ui.notifications.NotificationsFragment;
 
 import java.util.Objects;
 
@@ -20,6 +21,19 @@ import androidx.preference.PreferenceManager;
 
 public class MainActivity extends AppCompatActivity {
 
+    /**
+     * RESOURCES
+     *  -the forked twitter sdk was added to this project by me, now we just have to use it!
+     *  - here are some links:
+     *
+     * https://www.javatpoint.com/android-twitter-integrating
+     * https://github.com/twitter-archive/twitter-kit-android/wiki
+     * https://stackoverflow.com/questions/12091872/twitter-login-for-android-app
+     *
+     * those tutorials should get us going.
+     * just don't use anything involving flutter because that's old and was replaced by firebase, we don't need it anyway
+     *
+     */
     public static boolean isLoggedIn = true;
 
 
@@ -59,7 +73,7 @@ public class MainActivity extends AppCompatActivity {
 
         //Ensures the correct theme loads, upon updating
         SharedPreferences sharedPreference = PreferenceManager.getDefaultSharedPreferences(Objects.requireNonNull(getApplicationContext()));
-        String themeSetting = sharedPreference.getString("theme", null);
+        String themeSetting = sharedPreference.getString("theme", "dark");
         assert themeSetting != null;
         if (themeSetting.equals("dark")) {
             AppCompatDelegate.setDefaultNightMode(
@@ -69,6 +83,7 @@ public class MainActivity extends AppCompatActivity {
                     AppCompatDelegate.MODE_NIGHT_NO);
 
         }
+
 
 
 

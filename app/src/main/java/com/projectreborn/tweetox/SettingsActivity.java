@@ -9,9 +9,13 @@ import java.util.Objects;
 import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.app.AppCompatDelegate;
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentManager;
 import androidx.preference.ListPreference;
 import androidx.preference.PreferenceFragmentCompat;
 import androidx.preference.PreferenceManager;
+
+import com.projectreborn.tweetox.ui.notifications.NotificationsFragment;
 
 public  class SettingsActivity extends AppCompatActivity {
     public static boolean isDarkThemeOn = false;
@@ -42,7 +46,7 @@ public  class SettingsActivity extends AppCompatActivity {
 */
 
         SharedPreferences sharedPreference = PreferenceManager.getDefaultSharedPreferences(Objects.requireNonNull(getApplicationContext()));
-        String themeSetting = sharedPreference.getString("theme", null);
+        String themeSetting = sharedPreference.getString("theme", "dark");
         assert themeSetting != null;
         if(themeSetting.equals("dark")) {
             AppCompatDelegate.setDefaultNightMode(
@@ -79,8 +83,11 @@ public  class SettingsActivity extends AppCompatActivity {
     @Override //When you press back, it goes back (back btns in settings)
     public boolean onSupportNavigateUp() {
         finish();
-        Intent intent = new Intent(getApplicationContext(), MainActivity.class);
-        startActivity(intent);
+       Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+       startActivity(intent);
+
+
+
         return true;
     }
 
@@ -121,8 +128,13 @@ public  class SettingsActivity extends AppCompatActivity {
 
     public void onBackPressed(){
         super.onBackPressed();
-        Intent intent = new Intent(this, MainActivity.class);
+       Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
+//TODO: make the back button go to the profile tab (from where we came from)
+       // Intent i = new Intent(this, MainActivity.class);
+       // i.putExtra("frgToLoad", "fromSettingsToProfile");
+       // startActivity(i);
+
     }
 
 

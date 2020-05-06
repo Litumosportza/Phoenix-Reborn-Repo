@@ -77,7 +77,7 @@ public class NotificationsFragment extends Fragment {
         MenuItem menuItem = menu.findItem(R.id.item1);
 
         SharedPreferences sharedPreference = PreferenceManager.getDefaultSharedPreferences(Objects.requireNonNull(getContext()));
-        String themeSetting = sharedPreference.getString("theme", null);
+        String themeSetting = sharedPreference.getString("theme", "dark");
         assert themeSetting != null;
         if(themeSetting.equals("dark")){
             tintMenuIcon(Objects.requireNonNull(getContext()), menuItem, R.color.white);
@@ -109,6 +109,8 @@ public class NotificationsFragment extends Fragment {
         }
         return super.onOptionsItemSelected(item);
     }
+
+
 
     public static void tintMenuIcon(Context context, MenuItem item, @ColorRes int color) {
         Drawable normalDrawable = item.getIcon();

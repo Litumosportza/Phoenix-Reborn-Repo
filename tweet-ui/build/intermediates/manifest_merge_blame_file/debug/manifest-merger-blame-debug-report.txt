@@ -1,0 +1,58 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~ Copyright (C) 2015 Twitter, Inc.
+4  ~
+5  ~ Licensed under the Apache License, Version 2.0 (the "License");
+6  ~ you may not use this file except in compliance with the License.
+7  ~ You may obtain a copy of the License at
+8  ~
+9  ~      http://www.apache.org/licenses/LICENSE-2.0
+10  ~
+11  ~ Unless required by applicable law or agreed to in writing, software
+12  ~ distributed under the License is distributed on an "AS IS" BASIS,
+13  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14  ~ See the License for the specific language governing permissions and
+15  ~ limitations under the License.
+16  ~
+17-->
+18<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+19    xmlns:tools="http://schemas.android.com/tools"
+20    package="com.twitter.sdk.android.tweetui"
+21    android:versionCode="1"
+22    android:versionName="3.3.0-SNAPSHOT" >
+23
+24    <uses-sdk android:minSdkVersion="15" />
+25
+26    <uses-permission android:name="android.permission.INTERNET" />
+26-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/AndroidManifest.xml:21:5-67
+26-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/AndroidManifest.xml:21:22-64
+27
+28    <application
+28-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/AndroidManifest.xml:23:5-31:19
+29        android:allowBackup="true"
+29-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/debug/AndroidManifest.xml:23:9-35
+30        android:largeHeap="true"
+30-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/debug/AndroidManifest.xml:24:9-33
+31        tools:ignore="UnusedAttribute" >
+31-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/debug/AndroidManifest.xml:25:9-39
+32        <uses-library android:name="android.test.runner" />
+32-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/debug/AndroidManifest.xml:27:9-60
+32-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/debug/AndroidManifest.xml:27:23-57
+33
+34        <activity
+34-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/AndroidManifest.xml:24:9-27:49
+35            android:name="com.twitter.sdk.android.tweetui.PlayerActivity"
+35-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/AndroidManifest.xml:25:13-43
+36            android:configChanges="keyboardHidden|orientation|screenSize"
+36-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/AndroidManifest.xml:26:13-74
+37            android:theme="@style/MediaTheme" />
+37-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/AndroidManifest.xml:27:13-46
+38        <activity
+38-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/AndroidManifest.xml:28:9-30:49
+39            android:name="com.twitter.sdk.android.tweetui.GalleryActivity"
+39-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/AndroidManifest.xml:29:13-44
+40            android:theme="@style/MediaTheme" />
+40-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/AndroidManifest.xml:30:13-46
+41    </application>
+42
+43</manifest>

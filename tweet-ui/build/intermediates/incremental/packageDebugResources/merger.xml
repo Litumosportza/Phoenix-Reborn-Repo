@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res"/><source path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/generated/res/rs/debug"/><source path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res"><file name="tw__ic_video_pause_pressed" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__ic_video_pause_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__ic_tweet_verified" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__ic_tweet_verified.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__ic_seekbar_secondary_bg" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__ic_seekbar_secondary_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__ic_play_default" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__ic_play_default.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__ic_seekbar_progress_bg" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__ic_seekbar_progress_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__ic_logo_white" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__ic_logo_white.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__action_heart_off_default" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__action_heart_off_default.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__ic_video_replay" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__ic_video_replay.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__ic_vine_badge" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__ic_vine_badge.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__ic_logo_blue" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__ic_logo_blue.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__ic_video_play_pressed" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__ic_video_play_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__action_heart_on_default" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__action_heart_on_default.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__ic_retweet_light" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__ic_retweet_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__ic_gif_badge" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__ic_gif_badge.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__ic_seekbar_bg" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__ic_seekbar_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__ic_inline_share" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__ic_inline_share.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__ic_video_play" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__ic_video_play.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__ic_video_replay_pressed" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__ic_video_replay_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__ic_tweet_photo_error_light" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__ic_tweet_photo_error_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__ic_play_pressed" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__ic_play_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__ic_tweet_photo_error_dark" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__ic_tweet_photo_error_dark.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__ic_retweet_dark" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__ic_retweet_dark.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__ic_video_pause" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-hdpi/tw__ic_video_pause.png" qualifiers="hdpi-v4" type="drawable"/><file name="tw__video_control" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/layout/tw__video_control.xml" qualifiers="" type="layout"/><file name="tw__action_bar" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/layout/tw__action_bar.xml" qualifiers="" type="layout"/><file name="tw__tweet_compact" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/layout/tw__tweet_compact.xml" qualifiers="" type="layout"/><file name="tw__tweet_quote" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/layout/tw__tweet_quote.xml" qualifiers="" type="layout"/><file name="tw__media_badge" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/layout/tw__media_badge.xml" qualifiers="" type="layout"/><file name="tw__tweet" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/layout/tw__tweet.xml" qualifiers="" type="layout"/><file name="tw__gallery_activity" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/layout/tw__gallery_activity.xml" qualifiers="" type="layout"/><file name="tw__player_activity" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/layout/tw__player_activity.xml" qualifiers="" type="layout"/><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-tr/strings.xml" qualifiers="tr"><string name="tw__like_tweet">Tweet Beğen</string><string name="tw__liked_tweet">Beğenmekten Vazgeç</string><string name="tw__loading_tweet">Tweet Yükleniyor</string><string name="tw__pause">duraklat</string><string name="tw__play">oynat</string><string name="tw__replay">tekrar oynat</string><string name="tw__retweeted_by_format">%1$s tarafından Retweetlendi</string><string name="tw__share_content_format">\@%1$s adlı kişinin Tweetini incele: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Tweet gönderen: %1$s (\@%2$s)</string><string name="tw__share_tweet">Tweet Paylaş</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Tweet Medyası</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-tr/const_strings.xml" qualifiers="tr"><string name="tw__relative_date_format_long">dd.MM.y</string><string name="tw__relative_date_format_short">d MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-tr/plurals.xml" qualifiers="tr"><plurals name="tw__time_hours">
+        <item quantity="one">1s</item>
+        <item quantity="other">%ds</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1d</item>
+        <item quantity="other">%dd</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1s</item>
+        <item quantity="other">%d</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-da/strings.xml" qualifiers="da"><string name="tw__like_tweet">Like Tweet</string><string name="tw__liked_tweet">Fjern like</string><string name="tw__loading_tweet">Indlæser tweet</string><string name="tw__pause">pause</string><string name="tw__play">afspil</string><string name="tw__replay">afspil igen</string><string name="tw__retweeted_by_format">Retweetet af %1$s</string><string name="tw__share_content_format">Tjek \@%1$s\s tweet: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Tweet fra %1$s (\@%2$s)</string><string name="tw__share_tweet">Del tweet</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Tweet-medie</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-da/const_strings.xml" qualifiers="da"><string name="tw__relative_date_format_long">d/M/y</string><string name="tw__relative_date_format_short">d. MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-da/plurals.xml" qualifiers="da"><plurals name="tw__time_hours">
+        <item quantity="one">1t</item>
+        <item quantity="other">%dt</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1m</item>
+        <item quantity="other">%dm</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1s</item>
+        <item quantity="other">%ds</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-en-rSS/strings.xml" qualifiers="en-rSS"><string name="tw__like_tweet">[[141901]] Like Tweet</string><string name="tw__liked_tweet">[[141902]] Undo Like</string><string name="tw__loading_tweet">[[60974]] Loading Tweet</string><string name="tw__pause">[[147607]] pause</string><string name="tw__play">[[147606]] play</string><string name="tw__replay">[[147608]] replay</string><string name="tw__retweeted_by_format">[[99301]] Retweeted by %1$s</string><string name="tw__share_content_format">[[60977]] Check out \@%1$s\'s Tweet: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">[[60978]] Tweet from %1$s (\@%2$s)</string><string name="tw__share_tweet">[[60976]] Share Tweet</string><string name="tw__tweet_content_description">[[60975]] %1$s. %2$s. %3$s.</string><string name="tw__tweet_media">[[156357]] Tweet Media</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-en-rSS/const_strings.xml" qualifiers="en-rSS"><string name="tw__relative_date_format_long">[[59353]] MM/dd/yy</string><string name="tw__relative_date_format_short">[[59352]] MMM dd</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-en-rSS/plurals.xml" qualifiers="en-rSS"><plurals name="tw__time_hours">
+        <item quantity="one">[[59358]] 1h</item>
+        <item quantity="other">[[59359]] %dh</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">[[59356]] 1m</item>
+        <item quantity="other">[[59357]] %dm</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">[[59354]] 1s</item>
+        <item quantity="other">[[59355]] %ds</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-uk/strings.xml" qualifiers="uk"><string name="tw__like_tweet">Вподобати твіт</string><string name="tw__liked_tweet">Скасувати вподобання</string><string name="tw__loading_tweet">Завантаження твіта</string><string name="tw__pause">призупинити</string><string name="tw__play">відтворити</string><string name="tw__replay">повторити</string><string name="tw__retweeted_by_format">Ретвітнуто користувачем(кою) %1$s</string><string name="tw__share_content_format">Подивіться-но твіт від \@%1$s: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Твіт від %1$s (\@%2$s)</string><string name="tw__share_tweet">Поділитися твітом</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Медіафайли твітів</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-uk/plurals.xml" qualifiers="uk"><plurals name="tw__time_hours">
+        <item quantity="one">1 год</item>
+        <item quantity="other">%d год</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1 хв</item>
+        <item quantity="other">%d хв</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1 с</item>
+        <item quantity="other">%d с</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-cs/strings.xml" qualifiers="cs"><string name="tw__like_tweet">Lajknout Tweet</string><string name="tw__liked_tweet">Vzít lajk zpět</string><string name="tw__loading_tweet">Načítání tweetu</string><string name="tw__pause">pozastavit</string><string name="tw__play">přehrát</string><string name="tw__replay">přehrát od začátku</string><string name="tw__retweeted_by_format">Retweetnul uživatel %1$s</string><string name="tw__share_content_format">Podívejte se na tweet uživatele \@%1$s: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Tweet od uživatele %1$s (\@%2$s)</string><string name="tw__share_tweet">Sdílet tweet</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Tweetnout média</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-cs/plurals.xml" qualifiers="cs"><plurals name="tw__time_hours">
+        <item quantity="one">1 h</item>
+        <item quantity="other">%d h</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1 min</item>
+        <item quantity="other">%d min</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1 s</item>
+        <item quantity="other">%d s</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-fa/strings.xml" qualifiers="fa"><string name="tw__like_tweet">پسندیدن توییت</string><string name="tw__liked_tweet">لغو پسندیدن</string><string name="tw__loading_tweet">بارگیری توییت</string><string name="tw__pause">توقف موقت</string><string name="tw__play">پخش</string><string name="tw__replay">پخش مجدد</string><string name="tw__retweeted_by_format">بازتوییت‌شده توسط %1$s</string><string name="tw__share_content_format">توییت ‎\@%1$s را بر‌رسی کنید: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">توییت‌ از %1$s (‎\@%2$s)</string><string name="tw__share_tweet">به اشتراک‌گذاری توییت</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">محتوای چند رسانه‌ای توییت</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-fa/const_strings.xml" qualifiers="fa"><string name="tw__relative_date_format_long">y/M/d</string><string name="tw__relative_date_format_short">d LLL</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-fa/plurals.xml" qualifiers="fa"><plurals name="tw__time_hours">
+        <item quantity="one">1 ساعت</item>
+        <item quantity="other">%d ساعت</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1 دقیقه</item>
+        <item quantity="other">%d دقیقه</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1 ثانیه</item>
+        <item quantity="other">%d ثانیه</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ko/strings.xml" qualifiers="ko"><string name="tw__like_tweet">마음에 들어요</string><string name="tw__liked_tweet">마음에 들어요 취소</string><string name="tw__loading_tweet">트윗을 불러오는 중</string><string name="tw__pause">일시 정지</string><string name="tw__play">재생</string><string name="tw__replay">재시작</string><string name="tw__retweeted_by_format">%1$s 님이 리트윗함</string><string name="tw__share_content_format">\@%1$s 님의 트윗 보기: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">%1$s (\@%2$s) 님의 트윗</string><string name="tw__share_tweet">트윗 공유하기</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">트윗 미디어</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ko/const_strings.xml" qualifiers="ko"><string name="tw__relative_date_format_long">yy/MM/dd</string><string name="tw__relative_date_format_short">MMM d일</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ko/plurals.xml" qualifiers="ko"><plurals name="tw__time_hours">
+        <item quantity="one">1시간</item>
+        <item quantity="other">%d시간</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1분</item>
+        <item quantity="other">%d분</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1초</item>
+        <item quantity="other">%d초</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ur/strings.xml" qualifiers="ur"><string name="tw__like_tweet">ٹویٹ پسند کریں</string><string name="tw__liked_tweet">پسند کو منسوخ کریں</string><string name="tw__loading_tweet">ٹویٹ لوڈ ہو رہی ہے</string><string name="tw__pause">روکیں</string><string name="tw__play">چلائیں</string><string name="tw__replay">دوبارہ چلائیں</string><string name="tw__retweeted_by_format">%1$s کی ریٹویٹ کردہ</string><string name="tw__share_content_format">‎\@%1$s کی ٹویٹ دیکھیں: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">%1$s (‎\@%2$s) کی ٹویٹ</string><string name="tw__share_tweet">ٹویٹ شیئر کریں</string><string name="tw__tweet_content_description">%1$s۔ %2$s۔ %3$s۔</string><string name="tw__tweet_media">میڈیا ٹویٹ کریں</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ur/const_strings.xml" qualifiers="ur"><string name="tw__relative_date_format_long">d/M/y</string><string name="tw__relative_date_format_short">d MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ur/plurals.xml" qualifiers="ur"><plurals name="tw__time_hours">
+        <item quantity="one">1 گھنٹہ</item>
+        <item quantity="other">%d گھنٹے</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1منٹ</item>
+        <item quantity="other">%dمنٹ</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">پہلا</item>
+        <item quantity="other">%dسیکنڈ</item>
+    </plurals></file><file name="tw__accelerate_cubic" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/anim/tw__accelerate_cubic.xml" qualifiers="" type="anim"/><file name="tw__slide_out" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/anim/tw__slide_out.xml" qualifiers="" type="anim"/><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ro/strings.xml" qualifiers="ro"><string name="tw__like_tweet">Apreciază Tweetul</string><string name="tw__liked_tweet">Anulează aprecierea</string><string name="tw__loading_tweet">Se încarcă Tweetul</string><string name="tw__pause">pauză</string><string name="tw__play">redă</string><string name="tw__replay">redă din nou</string><string name="tw__retweeted_by_format">Redistribuit de %1$s</string><string name="tw__share_content_format">Vezi Tweetul lui \@%1$s: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Tweet de la %1$s (\@%2$s)</string><string name="tw__share_tweet">Distribuie Tweetul</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Tweet cu conținut media</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ro/const_strings.xml" qualifiers="ro"><string name="tw__relative_date_format_long">dd/MM/yy</string><string name="tw__relative_date_format_short">dd MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ro/plurals.xml" qualifiers="ro"><plurals name="tw__time_hours">
+        <item quantity="one">1 h</item>
+        <item quantity="other">%d h</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1 m</item>
+        <item quantity="other">%d m</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1 s</item>
+        <item quantity="other">%d s</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-zh-rTW/strings.xml" qualifiers="zh-rTW"><string name="tw__like_tweet">喜歡推文</string><string name="tw__liked_tweet">取消喜歡</string><string name="tw__loading_tweet">正在載入推文</string><string name="tw__pause">暫停</string><string name="tw__play">播放</string><string name="tw__replay">重播</string><string name="tw__retweeted_by_format">由 %1$s 轉推</string><string name="tw__share_content_format">查看 \@%1$s 的推文：https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">來自 %1$s (\@%2$s) 的推文</string><string name="tw__share_tweet">分享推文</string><string name="tw__tweet_content_description">%1$s。%2$s。%3$s。</string><string name="tw__tweet_media">推文媒體</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-zh-rTW/const_strings.xml" qualifiers="zh-rTW"><string name="tw__relative_date_format_long">y/M/d</string><string name="tw__relative_date_format_short">M月d日</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-zh-rTW/plurals.xml" qualifiers="zh-rTW"><plurals name="tw__time_hours">
+        <item quantity="one">1 小時</item>
+        <item quantity="other">%d 小時</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1 分鐘</item>
+        <item quantity="other">%d 分鐘</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1  秒</item>
+        <item quantity="other">%d 秒</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-iw/strings.xml" qualifiers="iw"><string name="tw__like_tweet">סמן ציוץ כאהוב</string><string name="tw__liked_tweet">בטל סימון כאהוב</string><string name="tw__loading_tweet">טוען ציוץ</string><string name="tw__pause">לעצור</string><string name="tw__play">לנגן</string><string name="tw__replay">לנגן מחדש</string><string name="tw__retweeted_by_format">צויץ מחדש על-ידי %1$s</string><string name="tw__share_content_format">בוא לראות את הציוץ של ‎\@%1$s‏: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">ציוץ של %1$s‏ (‎\@%2$s)</string><string name="tw__share_tweet">שתף ציוץ</string><string name="tw__tweet_content_description">%1$s‏. %2$s‏. %3$s</string><string name="tw__tweet_media">המדיה של הציוץ</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-iw/const_strings.xml" qualifiers="iw"><string name="tw__relative_date_format_long">d.M.y</string><string name="tw__relative_date_format_short">d. MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-iw/plurals.xml" qualifiers="iw"><plurals name="tw__time_hours">
+        <item quantity="one">שעה אחת</item>
+        <item quantity="other">%d שעות</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">דקה אחת</item>
+        <item quantity="other">%d דקות</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">שנייה אחת</item>
+        <item quantity="other">%d שניות</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-kn/strings.xml" qualifiers="kn"><string name="tw__like_tweet">ಟ್ವೀಟ್ ಇಷ್ಟಪಡಿ</string><string name="tw__liked_tweet">ಇಷ್ಟಪಡಿ ರದ್ದುಮಾಡು</string><string name="tw__loading_tweet">ಟ್ವೀಟ್ ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ</string><string name="tw__pause">ವಿರಾಮ</string><string name="tw__play">ಪ್ಲೇ</string><string name="tw__replay">ಮರುಪ್ಲೇ</string><string name="tw__retweeted_by_format">%1$s ಇಂದ ಮರುಟ್ವೀಟಿಸಲ್ಪಟ್ಟಿದೆ</string><string name="tw__share_content_format">ಪರಿಶೀಲಿಸಿ \@%1$s\'s ಟ್ವೀಟ್: https://twitter.com/%1$s/ಸ್ಥಿತಿ/%2$s</string><string name="tw__share_subject_format">%1$s (\@%2$s) ಇಂದ ಟ್ವೀಟ್</string><string name="tw__share_tweet">ಟ್ವೀಟ್ ಹಂಚಿಕೊಳ್ಳಿ</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">ಟ್ವೀಟ್ ಮಾಧ್ಯಮ</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-kn/plurals.xml" qualifiers="kn"><plurals name="tw__time_hours">
+        <item quantity="one">1ಗಂ</item>
+        <item quantity="other">%dಗಂ</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1ನಿ</item>
+        <item quantity="other">%dನಿ</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1ಗಳು</item>
+        <item quantity="other">%dಗಳು</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-sv/strings.xml" qualifiers="sv"><string name="tw__like_tweet">Gilla Tweet</string><string name="tw__liked_tweet">Ångra gillamarkeringen</string><string name="tw__loading_tweet">Läser in tweeten</string><string name="tw__pause">pausa</string><string name="tw__play">spela</string><string name="tw__replay">spela om</string><string name="tw__retweeted_by_format">Retweetad av %1$s</string><string name="tw__share_content_format">Kolla in \@%1$ss tweet: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Tweet från %1$s (\@%2$s)</string><string name="tw__share_tweet">Dela tweeten</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Tweetmedia</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-sv/const_strings.xml" qualifiers="sv"><string name="tw__relative_date_format_long">d.M.y</string><string name="tw__relative_date_format_short">d MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-sv/plurals.xml" qualifiers="sv"><plurals name="tw__time_hours">
+        <item quantity="one">1h</item>
+        <item quantity="other">%dh</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1m</item>
+        <item quantity="other">%dm</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1s</item>
+        <item quantity="other">%ds</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-mr/strings.xml" qualifiers="mr"><string name="tw__like_tweet">ट्विट पसंत करा</string><string name="tw__liked_tweet">पसंती पूर्ववत करा</string><string name="tw__loading_tweet">ट्विट लोड करीत आहे</string><string name="tw__pause">पॉज</string><string name="tw__play">प्ले</string><string name="tw__replay">रिप्ले</string><string name="tw__retweeted_by_format">%1$s द्वारे पुन्हा ट्विट केलेले</string><string name="tw__share_content_format">\@%1$s\ चे ट्विट पाहा: https://twitter.com/%1$s/स्थिती/%2$s</string><string name="tw__share_subject_format">%1$s (\@%2$s) कडील ट्विट</string><string name="tw__share_tweet">ट्विट शेअर करा</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">ट्विट मिडिया</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-mr/plurals.xml" qualifiers="mr"><plurals name="tw__time_hours">
+        <item quantity="one">1h</item>
+        <item quantity="other">%dh</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1 m</item>
+        <item quantity="other">%dm</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1 सेकंद</item>
+        <item quantity="other">%ds</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-hi/strings.xml" qualifiers="hi"><string name="tw__like_tweet">ट्वीट पसंद करें</string><string name="tw__liked_tweet">पसंद पूर्ववत करें</string><string name="tw__loading_tweet">ट्वीट लोड हो रहे हैं</string><string name="tw__pause">विराम</string><string name="tw__play">चलाएँ</string><string name="tw__replay">रीप्ले</string><string name="tw__retweeted_by_format">%1$s द्वारा रीट्विट</string><string name="tw__share_content_format">\@%1$s के ट्वीट पर नजर डालें: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">%1$s (\@%2$s) से ट्वीट</string><string name="tw__share_tweet">ट्वीट साझा करें</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">ट्वीट मीडिया</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-hi/const_strings.xml" qualifiers="hi"><string name="tw__relative_date_format_long">d.M.y</string><string name="tw__relative_date_format_short">d MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-hi/plurals.xml" qualifiers="hi"><plurals name="tw__time_hours">
+        <item quantity="one">1 घंटा</item>
+        <item quantity="other">%d घंटे</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1 क्षण</item>
+        <item quantity="other">%d क्षण</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1 पल</item>
+        <item quantity="other">%d पल</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ca/strings.xml" qualifiers="ca"><string name="tw__like_tweet">M\'agrada el tuit</string><string name="tw__liked_tweet">Desfés l\'agradament</string><string name="tw__loading_tweet">S\'està carregant el tuit</string><string name="tw__pause">atura temporalment</string><string name="tw__play">reprodueix</string><string name="tw__replay">torna a reproduir</string><string name="tw__retweeted_by_format">Retuitat per %1$s</string><string name="tw__share_content_format">Dóna un cop d\'ull al tuit de \@%1$s: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Tuit de %1$s (\@%2$s)</string><string name="tw__share_tweet">Comparteix el tuit</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Tuit amb contingut multimèdia</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ca/plurals.xml" qualifiers="ca"><plurals name="tw__time_hours">
+        <item quantity="one">1 h</item>
+        <item quantity="other">%d h</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1 m</item>
+        <item quantity="other">%d m</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1 s</item>
+        <item quantity="other">%d s</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-bn/strings.xml" qualifiers="bn"><string name="tw__like_tweet">টুইট পছন্দ করুন</string><string name="tw__liked_tweet">পছন্দ ফিরিয়ে নিন</string><string name="tw__loading_tweet">টুইট লোড হচ্ছে</string><string name="tw__pause">বিরতি</string><string name="tw__play">প্লে</string><string name="tw__replay">রিপ্লে</string><string name="tw__retweeted_by_format">%1$s পুনঃটুইট করেছেন</string><string name="tw__share_content_format">\@%1$s -এর টুইট দেখুন: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">%1$s (\@%2$s) থেকে টুইট</string><string name="tw__share_tweet">টুইট ভাগ করুন</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">টুইট মিডিয়া</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-bn/plurals.xml" qualifiers="bn"><plurals name="tw__time_hours">
+        <item quantity="one">1ঘ</item>
+        <item quantity="other">%dঘ</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1মি</item>
+        <item quantity="other">%dমি</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1সে</item>
+        <item quantity="other">%dসেকেন্ড</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-tl/strings.xml" qualifiers="tl"><string name="tw__like_tweet">Gustuhin ang Tweet</string><string name="tw__liked_tweet">I-undo ang Gusto</string><string name="tw__loading_tweet">Naglo-load ng Tweet</string><string name="tw__pause">i-pause</string><string name="tw__play">i-play</string><string name="tw__replay">i-play muli</string><string name="tw__retweeted_by_format">Ni-retweet ni %1$s</string><string name="tw__share_content_format">Tingnan \@%1$s\'s Tweet: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Tweet mula kay %1$s (\@%2$s)</string><string name="tw__share_tweet">Ibahagi ang Tweet</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Media ng Tweet</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-tl/const_strings.xml" qualifiers="tl"><string name="tw__relative_date_format_long">d/M/y</string><string name="tw__relative_date_format_short">d MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-tl/plurals.xml" qualifiers="tl"><plurals name="tw__time_hours">
+        <item quantity="one">1h</item>
+        <item quantity="other">%dh</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1m</item>
+        <item quantity="other">%dm</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1s</item>
+        <item quantity="other">%ds</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values/strings.xml" qualifiers=""><string name="tw__loading_tweet">Loading Tweet</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__retweeted_by_format">Retweeted by %1$s</string><string name="tw__like_tweet">Like Tweet</string><string name="tw__liked_tweet">Undo Like</string><string name="tw__share_tweet">Share Tweet</string><string name="tw__share_subject_format">Tweet from %1$s (@%2$s)</string><string name="tw__share_content_format">Check out @%1$s\'s Tweet: https://twitter.com/%1$s/status/%2$s</string><string name="tw__play">play</string><string name="tw__pause">pause</string><string name="tw__replay">replay</string><string name="tw__tweet_media">Tweet Media</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values/styles.xml" qualifiers=""><style name="tw__TweetLightStyle">
+        <item name="tw__container_bg_color">@color/tw__tweet_light_container_bg_color</item>
+        <item name="tw__primary_text_color">@color/tw__tweet_light_primary_text_color</item>
+        <item name="tw__action_color">@color/tw__tweet_action_color</item>
+        <item name="tw__action_highlight_color">@color/tw__tweet_action_light_highlight_color</item>
+    </style><style name="tw__TweetLightWithActionsStyle" parent="tw__TweetLightStyle">
+        <item name="tw__tweet_actions_enabled">true</item>
+    </style><style name="tw__TweetDarkStyle">
+        <item name="tw__container_bg_color">@color/tw__tweet_dark_container_bg_color</item>
+        <item name="tw__primary_text_color">@color/tw__tweet_dark_primary_text_color</item>
+        <item name="tw__action_color">@color/tw__tweet_action_color</item>
+        <item name="tw__action_highlight_color">@color/tw__tweet_action_dark_highlight_color</item>
+    </style><style name="tw__TweetDarkWithActionsStyle" parent="tw__TweetDarkStyle">
+        <item name="tw__tweet_actions_enabled">true</item>
+    </style></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="tw__TweetView">
+        <attr format="string" name="tw__tweet_id"/>
+        
+        <attr format="color" name="tw__container_bg_color"/>
+        <attr format="color" name="tw__primary_text_color"/>
+        <attr format="color" name="tw__action_color"/>
+        <attr format="color" name="tw__action_highlight_color"/>
+        <attr format="boolean" name="tw__tweet_actions_enabled"/>
+    </declare-styleable><declare-styleable name="ToggleImageButton">
+        <attr format="boolean" name="state_toggled_on"/>
+        <attr format="string" name="contentDescriptionOn"/>
+        <attr format="string" name="contentDescriptionOff"/>
+        <attr format="boolean" name="toggleOnClick"/>
+    </declare-styleable><declare-styleable name="AspectRatioFrameLayout">
+        <attr format="float" name="tw__frame_layout_aspect_ratio"/>
+        <attr format="enum" name="tw__frame_layout_dimension_to_adjust">
+            <enum name="height" value="0"/>
+            <enum name="width" value="1"/>
+        </attr>
+    </declare-styleable></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values/tw__tweet_media_styles.xml" qualifiers=""><style name="tw__TweetAvatar" ns1:ignore="NewApi">
+        <item name="android:layout_width">@dimen/tw__tweet_avatar_size</item>
+        <item name="android:layout_height">@dimen/tw__tweet_avatar_size</item>
+        <item name="android:layout_marginTop">@dimen/tw__tweet_avatar_margin_top</item>
+        <item name="android:layout_marginLeft">@dimen/tw__tweet_avatar_margin_left</item>
+        <item name="android:layout_marginStart">@dimen/tw__tweet_avatar_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/tw__tweet_avatar_margin_right</item>
+        <item name="android:layout_marginEnd">@dimen/tw__tweet_avatar_margin_right</item>
+        <item name="android:focusable">false</item>
+    </style><style name="tw__TwitterLogo" ns1:ignore="NewApi">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/tw__tweet_logo_margin_top</item>
+        <item name="android:layout_marginRight">@dimen/tw__tweet_logo_margin_right</item>
+        <item name="android:layout_marginEnd">@dimen/tw__tweet_logo_margin_right</item>
+        <item name="android:src">@drawable/tw__ic_logo_blue</item>
+        <item name="android:focusable">false</item>
+    </style><style name="tw__TweetMediaContainer">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:visibility">gone</item>
+    </style><style name="tw__TweetMediaContainer.Compact" ns1:ignore="NewApi">
+        <item name="android:layout_marginTop">@dimen/tw__compact_tweet_media_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/tw__compact_tweet_media_margin_bottom</item>
+        <item name="android:layout_marginRight">@dimen/tw__compact_tweet_media_margin_right</item>
+        <item name="android:layout_marginEnd">@dimen/tw__compact_tweet_media_margin_right</item>
+    </style><style name="tw__TweetMediaContainer.Quote">
+        <item name="android:layout_marginBottom">@dimen/tw__quote_tweet_media_margin_bottom</item>
+        <item name="android:layout_marginRight">@dimen/tw__quote_tweet_media_margin_horizontal
+        </item>
+        <item name="android:layout_marginLeft">@dimen/tw__quote_tweet_media_margin_horizontal</item>
+    </style><style name="tw__QuoteTweetContainer" ns1:ignore="NewApi">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_marginLeft">@dimen/tw__tweet_quote_tweet_margin_horizontal</item>
+        <item name="android:layout_marginRight">@dimen/tw__tweet_quote_tweet_margin_horizontal
+        </item>
+        <item name="android:layout_marginTop">@dimen/tw__tweet_quote_tweet_margin_top</item>
+    </style><style name="tw__QuoteTweetContainer.Compact" ns1:ignore="NewApi">
+        <item name="android:layout_marginLeft">@dimen/tw__compact_tweet_quote_tweet_margin_left
+        </item>
+        <item name="android:layout_marginStart">@dimen/tw__compact_tweet_quote_tweet_margin_left
+        </item>
+        <item name="android:layout_marginRight">@dimen/tw__compact_tweet_quote_tweet_margin_right
+        </item>
+        <item name="android:layout_marginEnd">@dimen/tw__compact_tweet_quote_tweet_margin_right
+        </item>
+    </style><style name="tw__TweetMedia">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style><style name="tw__Badge">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:visibility">gone</item>
+    </style><style name="tw__Badge.VideoDuration">
+        <item name="android:background">@drawable/tw__bg_media_badge</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:padding">2dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">@dimen/tw__text_size_small</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="tw__TweetBadge" ns1:ignore="NewApi">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/tw__tweet_media_badge_margin</item>
+        <item name="android:layout_gravity">bottom|left</item>
+    </style><style name="tw__TweetAvatar.Compact" ns1:ignore="NewApi" parent="tw__TweetAvatar">
+        <item name="android:layout_width">@dimen/tw__tweet_avatar_size</item>
+        <item name="android:layout_height">@dimen/tw__tweet_avatar_size</item>
+        <item name="android:layout_marginTop">@dimen/tw__compact_tweet_avatar_margin_top</item>
+        <item name="android:layout_marginLeft">@dimen/tw__compact_tweet_avatar_margin_left</item>
+        <item name="android:layout_marginStart">@dimen/tw__compact_tweet_avatar_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/tw__compact_tweet_avatar_margin_right</item>
+        <item name="android:layout_marginEnd">@dimen/tw__compact_tweet_avatar_margin_right</item>
+        <item name="android:focusable">false</item>
+    </style><style name="tw__TwitterLogo.Compact" ns1:ignore="NewApi">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/tw__compact_tweet_logo_margin_top</item>
+        <item name="android:layout_marginRight">@dimen/tw__compact_tweet_logo_margin_right</item>
+        <item name="android:layout_marginEnd">@dimen/tw__compact_tweet_logo_margin_right</item>
+        <item name="android:src">@drawable/tw__ic_logo_blue</item>
+    </style></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values/const_strings.xml" qualifiers=""><string name="tw__relative_date_format_short">MMM dd</string><string name="tw__relative_date_format_long">MM/dd/yy</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values/colors.xml" qualifiers=""><color name="tw__tweet_action_color">#55acee</color><color name="tw__tweet_action_light_highlight_color">#ebeef0</color><color name="tw__tweet_action_dark_highlight_color">#667580</color><color name="tw__tweet_light_container_bg_color">#ffffff</color><color name="tw__tweet_light_primary_text_color">#292f33</color><color name="tw__tweet_dark_container_bg_color">#d9000000</color><color name="tw__tweet_dark_primary_text_color">#e1ffffff</color><color name="tw__seekbar_thumb_outer_color">#4dffffff</color><color name="tw__seekbar_thumb_inner_color">#ffffffff</color><color name="tw__cta_border_color">@android:color/white</color><color name="tw__cta_text_color">@android:color/white</color><color name="tw__black_opacity_10">#1a000000</color></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values/ids.xml" qualifiers=""><item name="tw__entity_index" type="id"/></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values/dimens.xml" qualifiers=""><dimen name="tw__tweet_container_bottom_separator">18dp</dimen><dimen name="tw__tweet_retweeted_by_margin_top">10dp</dimen><dimen name="tw__tweet_retweeted_by_margin_bottom">-10dp</dimen><dimen name="tw__tweet_retweeted_by_margin_left">20dp</dimen><dimen name="tw__tweet_retweeted_by_drawable_padding">3dp</dimen><dimen name="tw__tweet_avatar_size">36dp</dimen><dimen name="tw__tweet_avatar_margin_top">18dp</dimen><dimen name="tw__tweet_avatar_margin_left">20dp</dimen><dimen name="tw__tweet_avatar_margin_right">8dp</dimen><dimen name="tw__tweet_logo_margin_top">18dp</dimen><dimen name="tw__tweet_logo_margin_right">20dp</dimen><dimen name="tw__tweet_full_name_margin_right">36dp</dimen><dimen name="tw__tweet_full_name_margin_top">15dp</dimen><dimen name="tw__tweet_full_name_drawable_padding">3dp</dimen><dimen name="tw__tweet_screen_name_margin_top">-4dp</dimen><dimen name="tw__tweet_screen_name_margin_bottom">1dp</dimen><dimen name="tw__tweet_timestamp_margin_top">-4dp</dimen><dimen name="tw__tweet_timestamp_padding_left">4dp</dimen><dimen name="tw__tweet_text_margin_top">12dp</dimen><dimen name="tw__tweet_text_margin_left">20dp</dimen><dimen name="tw__tweet_text_margin_right">20dp</dimen><dimen name="tw__tweet_action_button_spacing">40dp</dimen><dimen name="tw__tweet_action_bar_offset_bottom">-2dp</dimen><dimen name="tw__tweet_action_bar_offset_left">8dp</dimen><dimen name="tw__tweet_action_button_margin_top">-4dp</dimen><dimen name="tw__tweet_action_heart_size">43dp</dimen><dimen name="tw__tweet_action_share_padding">14dp</dimen><dimen name="tw__tweet_media_badge_margin">4dp</dimen><dimen name="tw__badge_padding">4dp</dimen><dimen name="tw__media_view_divider_size">1dp</dimen><dimen name="tw__media_view_radius">5dp</dimen><dimen name="tw__cta_margin_top">12dp</dimen><dimen name="tw__cta_padding">8dp</dimen><dimen name="tw__cta_border_size">1dp</dimen><dimen name="tw__cta_radius">14dp</dimen><dimen name="tw__tweet_quote_tweet_margin_horizontal">20dp</dimen><dimen name="tw__tweet_quote_tweet_margin_top">8dp</dimen><dimen name="tw__compact_tweet_container_padding_top">10.5dp</dimen><dimen name="tw__compact_tweet_container_bottom_separator">13dp</dimen><dimen name="tw__compact_tweet_retweeted_by_margin_left">-25dp</dimen><dimen name="tw__compact_tweet_retweeted_by_margin_top">0dp</dimen><dimen name="tw__compact_tweet_retweeted_by_margin_bottom">0dp</dimen><dimen name="tw__compact_tweet_retweeted_by_drawable_padding">7dp</dimen><dimen name="tw__compact_tweet_avatar_margin_top">5.5dp</dimen><dimen name="tw__compact_tweet_avatar_margin_left">12dp</dimen><dimen name="tw__compact_tweet_avatar_margin_right">8dp</dimen><dimen name="tw__compact_tweet_logo_margin_top">5dp</dimen><dimen name="tw__compact_tweet_logo_margin_right">12dp</dimen><dimen name="tw__compact_tweet_full_name_margin_right">0dp</dimen><dimen name="tw__compact_tweet_attribution_line_margin_right">36dp</dimen><dimen name="tw__compact_tweet_full_name_margin_top">0dp</dimen><dimen name="tw__compact_tweet_screen_name_layout_width">0dp</dimen><dimen name="tw__compact_tweet_screen_name_margin_top">0dp</dimen><dimen name="tw__compact_tweet_screen_name_margin_bottom">0dp</dimen><dimen name="tw__compact_tweet_screen_name_padding_left">3dp</dimen><dimen name="tw__compact_tweet_timestamp_margin_top">0dp</dimen><dimen name="tw__compact_tweet_media_margin_top">7dp</dimen><dimen name="tw__compact_tweet_media_margin_right">12dp</dimen><dimen name="tw__compact_tweet_media_margin_bottom">3dp</dimen><dimen name="tw__compact_tweet_text_margin_top">1dp</dimen><dimen name="tw__compact_tweet_text_margin_left">0dp</dimen><dimen name="tw__compact_tweet_text_margin_right">12dp</dimen><dimen name="tw__compact_tweet_action_bar_offset_left">-12dp</dimen><dimen name="tw__compact_tweet_quote_tweet_margin_left">0dp</dimen><dimen name="tw__compact_tweet_quote_tweet_margin_right">12dp</dimen><dimen name="tw__quote_tweet_media_margin_horizontal">1dp</dimen><dimen name="tw__quote_tweet_media_margin_bottom">1dp</dimen><dimen name="tw__quote_tweet_text_margin_horizontal">8dp</dimen><dimen name="tw__quote_tweet_text_margin_bottom">8dp</dimen><dimen name="tw__quote_tweet_attribution_text_margin_horizontal">8dp</dimen><dimen name="tw__quote_tweet_attribution_text_margin_top">7dp</dimen><dimen name="tw__quote_tweet_border_width">1dp</dimen><dimen name="tw__text_size_large">16sp</dimen><dimen name="tw__text_size_medium">14sp</dimen><dimen name="tw__text_size_small">12sp</dimen><dimen name="tw__seekbar_thumb_size">32dp</dimen><dimen name="tw__seekbar_thumb_outer_padding">7dp</dimen><dimen name="tw__seekbar_thumb_inner_padding">13dp</dimen><dimen name="tw__video_control_height">32dp</dimen><dimen name="tw__video_control_text_size">13sp</dimen><dimen name="tw__gallery_page_margin">12dp</dimen></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values/tw__tweet_layout_styles.xml" qualifiers=""><style name="tw__TweetFillWidth">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values/plurals.xml" qualifiers=""><plurals name="tw__time_secs">
+        <item quantity="one">1s</item>
+        <item quantity="other">%ds</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1m</item>
+        <item quantity="other">%dm</item>
+    </plurals><plurals name="tw__time_hours">
+        <item quantity="one">1h</item>
+        <item quantity="other">%dh</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values/public.xml" qualifiers=""><public name="tw__TweetLightStyle" type="style"/><public name="tw__TweetLightWithActionsStyle" type="style"/><public name="tw__TweetDarkStyle" type="style"/><public name="tw__TweetDarkWithActionsStyle" type="style"/></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values/tw__tweet_actions_styles.xml" qualifiers=""><style name="tw__TweetActionButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/tw__tweet_action_button_margin_top</item>
+    </style><style name="tw__TweetActionButton.Heart">
+        <item name="android:layout_width">@dimen/tw__tweet_action_heart_size</item>
+        <item name="android:layout_height">@dimen/tw__tweet_action_heart_size</item>
+    </style><style name="tw__TweetActionButton.Share">
+        <item name="android:background">@null</item>
+        <item name="android:padding">@dimen/tw__tweet_action_share_padding</item>
+    </style><style name="tw__TweetActionButtonBar" ns1:ignore="NewApi">
+        <item name="android:layout_marginLeft">@dimen/tw__tweet_action_bar_offset_left</item>
+        <item name="android:layout_marginStart">@dimen/tw__tweet_action_bar_offset_left</item>
+        <item name="android:layout_marginBottom">@dimen/tw__tweet_action_bar_offset_bottom</item>
+    </style><style name="tw__TweetActionButtonBar.Compact" ns1:ignore="NewApi">
+        <item name="android:layout_marginLeft">@dimen/tw__compact_tweet_action_bar_offset_left
+        </item>
+        <item name="android:layout_marginStart">@dimen/tw__compact_tweet_action_bar_offset_left
+        </item>
+        <item name="android:layout_marginBottom">@dimen/tw__tweet_action_bar_offset_bottom</item>
+    </style></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values/tw__tweet_text_styles.xml" qualifiers=""><style name="tw__TweetRetweetedBy" ns1:ignore="NewApi">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/tw__tweet_retweeted_by_margin_top</item>
+        <item name="android:layout_marginLeft">@dimen/tw__tweet_retweeted_by_margin_left</item>
+        <item name="android:layout_marginStart">@dimen/tw__tweet_retweeted_by_margin_left</item>
+        <item name="android:layout_marginBottom">@dimen/tw__tweet_retweeted_by_margin_bottom</item>
+        <item name="android:drawableLeft">@drawable/tw__ic_retweet_light</item>
+        <item name="android:drawableStart">@drawable/tw__ic_retweet_light</item>
+        <item name="android:drawablePadding">@dimen/tw__tweet_retweeted_by_drawable_padding</item>
+        <item name="android:textSize">@dimen/tw__text_size_medium</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:focusable">false</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:visibility">gone</item>
+    </style><style name="tw__AttributionText" ns1:ignore="NewApi">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/tw__text_size_medium</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:singleLine">true</item>
+    </style><style name="tw__TweetFullNameBase" ns1:ignore="NewApi" parent="tw__AttributionText">
+        <item name="android:layout_marginTop">@dimen/tw__tweet_full_name_margin_top</item>
+        <item name="android:layout_marginRight">@dimen/tw__tweet_full_name_margin_right</item>
+        <item name="android:layout_marginEnd">@dimen/tw__tweet_full_name_margin_right</item>
+        <item name="android:textSize">@dimen/tw__text_size_large</item>
+        <item name="android:textColor">@color/tw__tweet_light_primary_text_color</item>
+        <item name="android:drawablePadding">@dimen/tw__tweet_full_name_drawable_padding</item>
+        <item name="android:focusable">false</item>
+        <item name="android:importantForAccessibility">no</item>
+    </style><style name="tw__TweetFullName" parent="tw__TweetFullNameBase">
+        <item name="android:textStyle">bold</item>
+    </style><style name="tw__TweetScreenName" ns1:ignore="NewApi" parent="tw__AttributionText">
+        <item name="android:layout_marginTop">@dimen/tw__tweet_screen_name_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/tw__tweet_screen_name_margin_bottom</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:focusable">false</item>
+        <item name="android:importantForAccessibility">no</item>
+    </style><style name="tw__TweetTimestamp" ns1:ignore="NewApi" parent="tw__AttributionText">
+        <item name="android:layout_marginTop">@dimen/tw__tweet_timestamp_margin_top</item>
+        <item name="android:paddingLeft">@dimen/tw__tweet_timestamp_padding_left</item>
+        <item name="android:ellipsize">none</item>
+        <item name="android:focusable">false</item>
+        <item name="android:importantForAccessibility">no</item>
+    </style><style name="tw__TweetText" ns1:ignore="NewApi">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/tw__tweet_text_margin_top</item>
+        <item name="android:layout_marginLeft">@dimen/tw__tweet_text_margin_left</item>
+        <item name="android:layout_marginStart">@dimen/tw__tweet_text_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/tw__tweet_text_margin_right</item>
+        <item name="android:layout_marginEnd">@dimen/tw__tweet_text_margin_right</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textSize">@dimen/tw__text_size_large</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+        <item name="android:textColor">@color/tw__tweet_light_primary_text_color</item>
+        <item name="android:textColorLink">@color/tw__tweet_action_color</item>
+        <item name="android:focusable">false</item>
+        <item name="android:importantForAccessibility">no</item>
+    </style><style name="tw__TweetRetweetedBy.Compact" ns1:ignore="NewApi">
+        <item name="android:layout_marginLeft">@dimen/tw__compact_tweet_retweeted_by_margin_left
+        </item>
+        <item name="android:layout_marginStart">@dimen/tw__compact_tweet_retweeted_by_margin_left
+        </item>
+        <item name="android:layout_marginBottom">
+            @dimen/tw__compact_tweet_retweeted_by_margin_bottom
+        </item>
+        <item name="android:layout_marginTop">@dimen/tw__compact_tweet_retweeted_by_margin_top
+        </item>
+        <item name="android:drawablePadding">
+            @dimen/tw__compact_tweet_retweeted_by_drawable_padding
+        </item>
+    </style><style name="tw__CompactAttributionLine" ns1:ignore="NewApi">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">
+            @dimen/tw__compact_tweet_attribution_line_margin_right
+        </item>
+        <item name="android:layout_marginEnd">
+            @dimen/tw__compact_tweet_attribution_line_margin_right
+        </item>
+        <item name="android:importantForAccessibility">noHideDescendants</item>
+    </style><style name="tw__TweetFullName.Compact" ns1:ignore="NewApi">
+        <item name="android:layout_marginTop">@dimen/tw__compact_tweet_full_name_margin_top</item>
+        <item name="android:layout_marginRight">@dimen/tw__compact_tweet_full_name_margin_right
+        </item>
+        <item name="android:layout_marginEnd">@dimen/tw__compact_tweet_full_name_margin_right</item>
+        <item name="android:ellipsize">none</item>
+    </style><style name="tw__TweetScreenName.Compact" ns1:ignore="NewApi">
+        <item name="android:layout_width">@dimen/tw__compact_tweet_screen_name_layout_width</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginTop">@dimen/tw__compact_tweet_screen_name_margin_top</item>
+        <item name="android:layout_marginBottom">
+            @dimen/tw__compact_tweet_screen_name_margin_bottom
+        </item>
+        <item name="android:paddingLeft">@dimen/tw__compact_tweet_screen_name_padding_left</item>
+        <item name="android:paddingStart">@dimen/tw__compact_tweet_screen_name_padding_left</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textSize">@dimen/tw__text_size_medium</item>
+        <item name="android:ellipsize">end</item>
+    </style><style name="tw__TweetTimestamp.Compact" ns1:ignore="NewApi">
+        <item name="android:layout_marginTop">@dimen/tw__compact_tweet_timestamp_margin_top</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textSize">@dimen/tw__text_size_medium</item>
+        <item name="android:ellipsize">none</item>
+    </style><style name="tw__TweetText.Compact" ns1:ignore="NewApi">
+        <item name="android:layout_marginTop">@dimen/tw__compact_tweet_text_margin_top</item>
+        <item name="android:layout_marginLeft">@dimen/tw__compact_tweet_text_margin_left</item>
+        <item name="android:layout_marginStart">@dimen/tw__compact_tweet_text_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/tw__compact_tweet_text_margin_right</item>
+        <item name="android:layout_marginEnd">@dimen/tw__compact_tweet_text_margin_right</item>
+    </style><style name="tw__QuoteAttributionLine" ns1:ignore="NewApi">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:importantForAccessibility">noHideDescendants</item>
+        <item name="android:layout_marginTop">@dimen/tw__quote_tweet_attribution_text_margin_top
+        </item>
+        <item name="android:layout_marginLeft">
+            @dimen/tw__quote_tweet_attribution_text_margin_horizontal
+        </item>
+        <item name="android:layout_marginStart">
+            @dimen/tw__quote_tweet_attribution_text_margin_horizontal
+        </item>
+        <item name="android:layout_marginRight">
+            @dimen/tw__quote_tweet_attribution_text_margin_horizontal
+        </item>
+        <item name="android:layout_marginEnd">
+            @dimen/tw__quote_tweet_attribution_text_margin_horizontal
+        </item>
+    </style><style name="tw__TweetText.Quote" ns1:ignore="NewApi">
+        <item name="android:layout_marginTop">@dimen/tw__compact_tweet_text_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/tw__quote_tweet_text_margin_bottom</item>
+        <item name="android:layout_marginLeft">@dimen/tw__quote_tweet_text_margin_horizontal</item>
+        <item name="android:layout_marginStart">@dimen/tw__quote_tweet_text_margin_horizontal</item>
+        <item name="android:layout_marginRight">@dimen/tw__quote_tweet_text_margin_horizontal</item>
+        <item name="android:layout_marginEnd">@dimen/tw__quote_tweet_text_margin_horizontal</item>
+    </style></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values/themes.xml" qualifiers=""><style name="MediaTheme" parent="@android:style/Theme.Holo">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/black</item>
+    </style></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ms/strings.xml" qualifiers="ms"><string name="tw__like_tweet">Suka Tweet</string><string name="tw__liked_tweet">Batal Suka</string><string name="tw__loading_tweet">Memuatkan Tweet</string><string name="tw__pause">jeda</string><string name="tw__play">main</string><string name="tw__replay">ulang main</string><string name="tw__retweeted_by_format">Ditweet semula oleh %1$s</string><string name="tw__share_content_format">Semak Tweet \@%1$s\ : https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Tweet daripada %1$s (\@%2$s)</string><string name="tw__share_tweet">Kongsi Tweet</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Media Tweet</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ms/const_strings.xml" qualifiers="ms"><string name="tw__relative_date_format_long">d/M/y</string><string name="tw__relative_date_format_short">d MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ms/plurals.xml" qualifiers="ms"><plurals name="tw__time_hours">
+        <item quantity="one">1j</item>
+        <item quantity="other">%dh</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1m</item>
+        <item quantity="other">%dm</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1s</item>
+        <item quantity="other">%ds</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-hr/strings.xml" qualifiers="hr"><string name="tw__like_tweet">Označi Tweet oznakom \"sviđa mi se\"</string><string name="tw__liked_tweet">Poništi oznaku \"sviđa mi se\"</string><string name="tw__loading_tweet">Učitavanje tweeta</string><string name="tw__pause">pauziraj</string><string name="tw__play">reproduciraj</string><string name="tw__replay">ponovno reproduciraj</string><string name="tw__retweeted_by_format">%1$s je proslijedio/la Tweet</string><string name="tw__share_content_format">Pogledajte Tweet korisnika/ce \@%1$s: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Tweet korisnika/ce %1$s (\@%2$s)</string><string name="tw__share_tweet">Podijeli Tweet</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Medijski sadržaji u tweetu</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-hr/plurals.xml" qualifiers="hr"><plurals name="tw__time_hours">
+        <item quantity="one">1 h</item>
+        <item quantity="other">%d h</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1 min</item>
+        <item quantity="other">%d min</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1 s</item>
+        <item quantity="other">%d s</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-zh-rCN/strings.xml" qualifiers="zh-rCN"><string name="tw__like_tweet">喜欢推文</string><string name="tw__liked_tweet">取消喜欢</string><string name="tw__loading_tweet">加载推文</string><string name="tw__pause">暂停</string><string name="tw__play">播放</string><string name="tw__replay">重播</string><string name="tw__retweeted_by_format">由 %1$s 转推</string><string name="tw__share_content_format">看看 \@%1$s 的推文：https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">来自 %1$s 的推文 (\@%2$s)</string><string name="tw__share_tweet">分享推文</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">推文媒体</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-zh-rCN/const_strings.xml" qualifiers="zh-rCN"><string name="tw__relative_date_format_long">y/M/d</string><string name="tw__relative_date_format_short">M月d日</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-zh-rCN/plurals.xml" qualifiers="zh-rCN"><plurals name="tw__time_hours">
+        <item quantity="one">1时</item>
+        <item quantity="other">%d时</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1分</item>
+        <item quantity="other">%d分</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1秒</item>
+        <item quantity="other">%d秒</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-en-rGB/strings.xml" qualifiers="en-rGB"><string name="tw__like_tweet">Like Tweet</string><string name="tw__liked_tweet">Undo Like</string><string name="tw__loading_tweet">Loading Tweet</string><string name="tw__pause">pause</string><string name="tw__play">play</string><string name="tw__replay">replay</string><string name="tw__retweeted_by_format">Retweeted by %1$s</string><string name="tw__share_content_format">Check out \@%1$s\'s Tweet: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Tweet from %1$s (\@%2$s)</string><string name="tw__share_tweet">Share Tweet</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Tweet Media</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-en-rGB/const_strings.xml" qualifiers="en-rGB"><string name="tw__relative_date_format_long">dd/MM/y</string><string name="tw__relative_date_format_short">d MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-en-rGB/plurals.xml" qualifiers="en-rGB"><plurals name="tw__time_hours">
+        <item quantity="one">1h</item>
+        <item quantity="other">%dh</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1m</item>
+        <item quantity="other">%dm</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1s</item>
+        <item quantity="other">%ds</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-fi/strings.xml" qualifiers="fi"><string name="tw__like_tweet">Tykkää twiitistä</string><string name="tw__liked_tweet">Kumoa tykkäys</string><string name="tw__loading_tweet">Ladataan twiittiä</string><string name="tw__pause">pysäytä</string><string name="tw__play">toista</string><string name="tw__replay">toista uudelleen</string><string name="tw__retweeted_by_format">Uudelleentwiitannut %1$s</string><string name="tw__share_content_format">Katso käyttäjän \@%1$s twiitti: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Twiitti käyttäjältä %1$s (\@%2$s)</string><string name="tw__share_tweet">Jaa twiitti</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Twiitin mediasisältö</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-fi/const_strings.xml" qualifiers="fi"><string name="tw__relative_date_format_long">d.M.y</string><string name="tw__relative_date_format_short">d. MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-fi/plurals.xml" qualifiers="fi"><plurals name="tw__time_hours">
+        <item quantity="one">1 h</item>
+        <item quantity="other">%d h</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1 min</item>
+        <item quantity="other">%d min</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1 s</item>
+        <item quantity="other">%d s</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-in/strings.xml" qualifiers="in"><string name="tw__like_tweet">Menyukai Tweet</string><string name="tw__liked_tweet">Batal Suka</string><string name="tw__loading_tweet">Memuat Tweet</string><string name="tw__pause">jeda</string><string name="tw__play">putar</string><string name="tw__replay">putar ulang</string><string name="tw__retweeted_by_format">Di-retweet oleh %1$s</string><string name="tw__share_content_format">Lihat Tweet \@%1$s: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Tweet dari %1$s (\@%2$s)</string><string name="tw__share_tweet">Sebarkan Tweet</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Media Tweet</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-in/const_strings.xml" qualifiers="in"><string name="tw__relative_date_format_long">d/M/y</string><string name="tw__relative_date_format_short">d MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-in/plurals.xml" qualifiers="in"><plurals name="tw__time_hours">
+        <item quantity="one">1 jam</item>
+        <item quantity="other">%d jam</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1 mnt</item>
+        <item quantity="other">%d mnt</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1 dtk</item>
+        <item quantity="other">%d dtk</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-th/strings.xml" qualifiers="th"><string name="tw__like_tweet">ชื่นชอบทวีต</string><string name="tw__liked_tweet">เลิกชื่นชอบ</string><string name="tw__loading_tweet">กำลังโหลดทวีต</string><string name="tw__pause">หยุดชั่วคราว</string><string name="tw__play">เล่น</string><string name="tw__replay">เล่นซ้ำ</string><string name="tw__retweeted_by_format">ถูกรีทวีตโดย %1$s</string><string name="tw__share_content_format">ดูทวีตของ \@%1$s: Tweet: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">ทวีตจาก %1$s (\@%2$s)</string><string name="tw__share_tweet">แบ่งปันทวีต</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">ทวีตสื่อ</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-th/const_strings.xml" qualifiers="th"><string name="tw__relative_date_format_long">d/M/y</string><string name="tw__relative_date_format_short">d MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-th/plurals.xml" qualifiers="th"><plurals name="tw__time_hours">
+        <item quantity="one">1ชม.</item>
+        <item quantity="other">%d ชม.</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1 นาที</item>
+        <item quantity="other">%d นาที</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1วิ</item>
+        <item quantity="other">%d วิ</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-vi/strings.xml" qualifiers="vi"><string name="tw__like_tweet">Thích Tweet</string><string name="tw__liked_tweet">Hoàn tác Thích</string><string name="tw__loading_tweet">Đang tải Tweet</string><string name="tw__pause">dừng lại</string><string name="tw__play">phát</string><string name="tw__replay">phát lại</string><string name="tw__retweeted_by_format">Đã Tweet lại bởi %1$s</string><string name="tw__share_content_format">Hãy xem Tweet của \@%1$s: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Tweet từ %1$s (\@%2$s)</string><string name="tw__share_tweet">Chia sẻ Tweet</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Tweet Phương tiện</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-vi/plurals.xml" qualifiers="vi"><plurals name="tw__time_hours">
+        <item quantity="one">1giờ</item>
+        <item quantity="other">%dgiờ</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1phút</item>
+        <item quantity="other">%dphút</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1giây</item>
+        <item quantity="other">%dgiây</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ja/strings.xml" qualifiers="ja"><string name="tw__like_tweet">ツイートにいいねする</string><string name="tw__liked_tweet">いいねを取り消す</string><string name="tw__loading_tweet">ツイートを読込中</string><string name="tw__pause">一時停止</string><string name="tw__play">再生</string><string name="tw__replay">リプレイ</string><string name="tw__retweeted_by_format">%1$sさんがリツイート</string><string name="tw__share_content_format">\@%1$sさんのツイートをチェックしましょう　 https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">%1$s (\@%2$s)さんからのツイート</string><string name="tw__share_tweet">ツイートを共有</string><string name="tw__tweet_content_description">%1$s、 %2$s、 %3$s。</string><string name="tw__tweet_media">画像/動画を投稿</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ja/const_strings.xml" qualifiers="ja"><string name="tw__relative_date_format_long">y/M/d</string><string name="tw__relative_date_format_short">M月d日</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ja/plurals.xml" qualifiers="ja"><plurals name="tw__time_hours">
+        <item quantity="one">1時間</item>
+        <item quantity="other">%d時間</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1分</item>
+        <item quantity="other">%d分</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1秒</item>
+        <item quantity="other">%d秒</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-sr/strings.xml" qualifiers="sr"><string name="tw__like_tweet">Свиђа ти се твит</string><string name="tw__liked_tweet">Опозови свиђање</string><string name="tw__loading_tweet">Учитавање твита</string><string name="tw__pause">пауза</string><string name="tw__play">пусти</string><string name="tw__replay">понови</string><string name="tw__retweeted_by_format">Ретвитовано од стране %1$s</string><string name="tw__share_content_format">Провери твит \@%1$s: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Твит од %1$s (\@%2$s)</string><string name="tw__share_tweet">Подели твит</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Mедиј из твита</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-sr/plurals.xml" qualifiers="sr"><plurals name="tw__time_hours">
+        <item quantity="one">1с</item>
+        <item quantity="other">%dс</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1м</item>
+        <item quantity="other">%dм</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1с</item>
+        <item quantity="other">%dс</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-de/strings.xml" qualifiers="de"><string name="tw__like_tweet">Tweet gefällt mir</string><string name="tw__liked_tweet">Gefällt mir nicht mehr</string><string name="tw__loading_tweet">Tweet wird geladen</string><string name="tw__pause">Pause</string><string name="tw__play">Abspielen</string><string name="tw__replay">Erneut abspielen</string><string name="tw__retweeted_by_format">Retweetet von %1$s</string><string name="tw__share_content_format">Sieh Dir den Tweet von \@%1$s an: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Tweet von %1$s (\@%2$s)</string><string name="tw__share_tweet">Tweet teilen</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Medien twittern</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-de/const_strings.xml" qualifiers="de"><string name="tw__relative_date_format_long">d.M.y</string><string name="tw__relative_date_format_short">d. MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-de/plurals.xml" qualifiers="de"><plurals name="tw__time_hours">
+        <item quantity="one">1 Std.</item>
+        <item quantity="other">%d Std.</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1 Min.</item>
+        <item quantity="other">%d Min.</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1 Sek.</item>
+        <item quantity="other">%d Sek.</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-pt/strings.xml" qualifiers="pt"><string name="tw__like_tweet">Curtir Tweet</string><string name="tw__liked_tweet">Descurtir.</string><string name="tw__loading_tweet">Carregando Tweet</string><string name="tw__pause">pausar</string><string name="tw__play">reproduzir</string><string name="tw__replay">repetir</string><string name="tw__retweeted_by_format">Retweetado por %1$s</string><string name="tw__share_content_format">Confira o Tweet de \@%1$s: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Tweet de %1$s (\@%2$s)</string><string name="tw__share_tweet">Compartilhar Tweet</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Mídia do Tweet</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-pt/const_strings.xml" qualifiers="pt"><string name="tw__relative_date_format_long">d.MM.y</string><string name="tw__relative_date_format_short">d \'de\' MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-pt/plurals.xml" qualifiers="pt"><plurals name="tw__time_hours">
+        <item quantity="one">1h</item>
+        <item quantity="other">%dh</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1m</item>
+        <item quantity="other">%dm</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1s</item>
+        <item quantity="other">%ds</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-bg/strings.xml" qualifiers="bg"><string name="tw__like_tweet">Харесване на туита</string><string name="tw__liked_tweet">Отмяна на харесването</string><string name="tw__loading_tweet">Туитът се зарежда</string><string name="tw__pause">пауза</string><string name="tw__play">пускане</string><string name="tw__replay">повторение</string><string name="tw__retweeted_by_format">Ретуитнато от %1$s</string><string name="tw__share_content_format">Виж туита на \@%1$s: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Туит от %1$s (\@%2$s)</string><string name="tw__share_tweet">Споделяне на туита</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Туитване на мултимедия</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-bg/plurals.xml" qualifiers="bg"><plurals name="tw__time_hours">
+        <item quantity="one">1 ч</item>
+        <item quantity="other">%d ч</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1 мин</item>
+        <item quantity="other">%d мин</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1 сек</item>
+        <item quantity="other">%d сек</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-hu/strings.xml" qualifiers="hu"><string name="tw__like_tweet">Tweet kedvelése</string><string name="tw__liked_tweet">Tweet kedvelésének visszavonása</string><string name="tw__loading_tweet">Tweet betöltése</string><string name="tw__pause">szünet</string><string name="tw__play">lejátszás</string><string name="tw__replay">lejátszás ismét</string><string name="tw__retweeted_by_format">%1$s retweetelte</string><string name="tw__share_content_format">Nézd meg \@%1$s\ felhasználó tweetjét: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Tweet %1$s (\@%2$s) felhasználótól</string><string name="tw__share_tweet">Tweet megosztása</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Média tweetelése</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-hu/const_strings.xml" qualifiers="hu"><string name="tw__relative_date_format_long">y. MM. dd.</string><string name="tw__relative_date_format_short">MMM d.</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-hu/plurals.xml" qualifiers="hu"><plurals name="tw__time_hours">
+        <item quantity="one">1 ó</item>
+        <item quantity="other">%d ó</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1 p</item>
+        <item quantity="other">%d p</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1 mp</item>
+        <item quantity="other">%d mp</item>
+    </plurals></file><file name="tw__quote_tweet_border" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-v18/tw__quote_tweet_border.xml" qualifiers="v18" type="drawable"/><file name="tw__ic_video_pause_pressed" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__ic_video_pause_pressed.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tw__ic_tweet_verified" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__ic_tweet_verified.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tw__ic_seekbar_secondary_bg" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__ic_seekbar_secondary_bg.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tw__ic_play_default" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__ic_play_default.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tw__ic_seekbar_progress_bg" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__ic_seekbar_progress_bg.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tw__ic_logo_white" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__ic_logo_white.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tw__action_heart_off_default" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__action_heart_off_default.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tw__ic_video_replay" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__ic_video_replay.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tw__ic_vine_badge" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__ic_vine_badge.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tw__ic_logo_blue" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__ic_logo_blue.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tw__ic_video_play_pressed" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__ic_video_play_pressed.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tw__action_heart_on_default" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__action_heart_on_default.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tw__ic_retweet_light" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__ic_retweet_light.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tw__ic_gif_badge" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__ic_gif_badge.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tw__ic_seekbar_bg" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__ic_seekbar_bg.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tw__ic_inline_share" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__ic_inline_share.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tw__ic_video_play" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__ic_video_play.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tw__ic_video_replay_pressed" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__ic_video_replay_pressed.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tw__ic_tweet_photo_error_light" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__ic_tweet_photo_error_light.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tw__ic_play_pressed" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__ic_play_pressed.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tw__ic_tweet_photo_error_dark" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__ic_tweet_photo_error_dark.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tw__ic_retweet_dark" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__ic_retweet_dark.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tw__ic_video_pause" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xxhdpi/tw__ic_video_pause.png" qualifiers="xxhdpi-v4" type="drawable"/><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-es/strings.xml" qualifiers="es"><string name="tw__like_tweet">Darle Me gusta al Tweet</string><string name="tw__liked_tweet">Deshacer Me gusta</string><string name="tw__loading_tweet">Cargando Tweet</string><string name="tw__pause">pausar</string><string name="tw__play">reproducir</string><string name="tw__replay">repetir</string><string name="tw__retweeted_by_format">Retwitteado por %1$s</string><string name="tw__share_content_format">Échale un vistazo al Tweet de \@%1$s\: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Tweet de %1$s (\@%2$s)</string><string name="tw__share_tweet">Compartir Tweet</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Tweets con contenido multimedia</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-es/const_strings.xml" qualifiers="es"><string name="tw__relative_date_format_long">d/M/y</string><string name="tw__relative_date_format_short">d \'de\' MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-es/plurals.xml" qualifiers="es"><plurals name="tw__time_hours">
+        <item quantity="one">1 h</item>
+        <item quantity="other">%dh</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1 m</item>
+        <item quantity="other">%dm</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1 s</item>
+        <item quantity="other">%ds</item>
+    </plurals></file><file name="tw__like_action" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-v21/tw__like_action.xml" qualifiers="v21" type="drawable"/><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-nl/strings.xml" qualifiers="nl"><string name="tw__like_tweet">Tweet leuk vinden</string><string name="tw__liked_tweet">Niet meer leuk</string><string name="tw__loading_tweet">Tweet laden…</string><string name="tw__pause">pauzeren</string><string name="tw__play">afspelen</string><string name="tw__replay">opnieuw afspelen</string><string name="tw__retweeted_by_format">Geretweet door %1$s</string><string name="tw__share_content_format">Bekijk de Tweet van \@%1$s: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Tweet van %1$s (\@%2$s)</string><string name="tw__share_tweet">Tweet delen</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Tweetmedia</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-nl/const_strings.xml" qualifiers="nl"><string name="tw__relative_date_format_long">d-M-y</string><string name="tw__relative_date_format_short">d MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-nl/plurals.xml" qualifiers="nl"><plurals name="tw__time_hours">
+        <item quantity="one">1u</item>
+        <item quantity="other">%du</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1m</item>
+        <item quantity="other">%dm</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1s</item>
+        <item quantity="other">%ds</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ta/strings.xml" qualifiers="ta"><string name="tw__like_tweet">கீச்சை விரும்பு</string><string name="tw__liked_tweet">விரும்பியதை செயல்தவிர்</string><string name="tw__loading_tweet">ட்விட்டை ஏற்றுகிறது</string><string name="tw__pause">இடைநிறுத்து</string><string name="tw__play">இயக்கு</string><string name="tw__replay">மீண்டும் இயக்கு</string><string name="tw__retweeted_by_format">%1$s -ஆல் மறுட்விட் செய்யப்பட்டது</string><string name="tw__share_content_format">\@%1$s\ -இன் ட்விட்டைக் காணுங்கள்: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">%1$s (\@%2$s) -இடமிருந்து ட்விட்</string><string name="tw__share_tweet">ட்விட்டைப் பகிர்</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">கீச்சு ஊடகம்</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ta/plurals.xml" qualifiers="ta"><plurals name="tw__time_hours">
+        <item quantity="one">1மணி</item>
+        <item quantity="other">%dமணி</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1நி</item>
+        <item quantity="other">%dநி</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1நொ</item>
+        <item quantity="other">%dநொ</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-fr/strings.xml" qualifiers="fr"><string name="tw__like_tweet">Aimer le Tweet</string><string name="tw__liked_tweet">Ne plus aimer</string><string name="tw__loading_tweet">Chargement du Tweet</string><string name="tw__pause">pause</string><string name="tw__play">lire</string><string name="tw__replay">relire</string><string name="tw__retweeted_by_format">Retweeté par %1$s</string><string name="tw__share_content_format">Lisez le Tweet de \@%1$s : https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Tweet de %1$s (\@%2$s)</string><string name="tw__share_tweet">Partager le Tweet</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Média du Tweet</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-fr/const_strings.xml" qualifiers="fr"><string name="tw__relative_date_format_long">d/M/y</string><string name="tw__relative_date_format_short">d MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-fr/plurals.xml" qualifiers="fr"><plurals name="tw__time_hours">
+        <item quantity="one">1 h</item>
+        <item quantity="other">%d h</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1 m</item>
+        <item quantity="other">%d m</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1 s</item>
+        <item quantity="other">%d s</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ar/strings.xml" qualifiers="ar"><string name="tw__like_tweet">إعجاب بالتغريدة</string><string name="tw__liked_tweet">إلغاء الإعجاب</string><string name="tw__loading_tweet">يتم تحميل التغريدة</string><string name="tw__pause">توقف</string><string name="tw__play">تشغيل</string><string name="tw__replay">إعادة التشغيل</string><string name="tw__retweeted_by_format">مُعاد تغريدها بواسطة %1$s</string><string name="tw__share_content_format">اطلع على تغريدة ‎\@%1$s\: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">تغريدة من %1$s (‎\@%2$s)</string><string name="tw__share_tweet">مشاركة التغريدة</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">تغريدة وسائط</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ar/const_strings.xml" qualifiers="ar"><string name="tw__relative_date_format_long">d/M/y</string><string name="tw__relative_date_format_short">d MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ar/plurals.xml" qualifiers="ar"><plurals name="tw__time_hours">
+        <item quantity="one">1 س</item>
+        <item quantity="other">%d س</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1 د</item>
+        <item quantity="other">%d د</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1 ث</item>
+        <item quantity="other">%d ث</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ru/strings.xml" qualifiers="ru"><string name="tw__like_tweet">Мне нравится</string><string name="tw__liked_tweet">Не нравится</string><string name="tw__loading_tweet">Загрузка твита</string><string name="tw__pause">приостановить</string><string name="tw__play">воспроизвести</string><string name="tw__replay">повторно воспроизвести</string><string name="tw__retweeted_by_format">Ретвитнуто пользователем %1$s</string><string name="tw__share_content_format">Посмотрите твит пользователя \@%1$s: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Твит от %1$s (\@%2$s)</string><string name="tw__share_tweet">Поделиться твитом</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Медиафайл в твите</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ru/const_strings.xml" qualifiers="ru"><string name="tw__relative_date_format_long">dd.MM.y</string><string name="tw__relative_date_format_short">d MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-ru/plurals.xml" qualifiers="ru"><plurals name="tw__time_hours">
+        <item quantity="one">1 ч</item>
+        <item quantity="other">%d ч</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1 мин</item>
+        <item quantity="other">%d мин</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1 с</item>
+        <item quantity="other">%d с</item>
+    </plurals></file><file name="tw__quote_tweet_border" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable/tw__quote_tweet_border.xml" qualifiers="" type="drawable"/><file name="tw__video_play_btn" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable/tw__video_play_btn.xml" qualifiers="" type="drawable"/><file name="tw__share_action" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable/tw__share_action.xml" qualifiers="" type="drawable"/><file name="tw__like_action" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable/tw__like_action.xml" qualifiers="" type="drawable"/><file name="tw__bg_media_badge" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable/tw__bg_media_badge.xml" qualifiers="" type="drawable"/><file name="tw__video_seekbar" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable/tw__video_seekbar.xml" qualifiers="" type="drawable"/><file name="tw__call_to_action" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable/tw__call_to_action.xml" qualifiers="" type="drawable"/><file name="tw__video_pause_btn" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable/tw__video_pause_btn.xml" qualifiers="" type="drawable"/><file name="tw__video_replay_btn" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable/tw__video_replay_btn.xml" qualifiers="" type="drawable"/><file name="tw__seekbar_thumb" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable/tw__seekbar_thumb.xml" qualifiers="" type="drawable"/><file name="tw__player_overlay" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable/tw__player_overlay.xml" qualifiers="" type="drawable"/><file name="tw__vine_badge" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable/tw__vine_badge.xml" qualifiers="" type="drawable"/><file name="tw__gif_badge" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable/tw__gif_badge.xml" qualifiers="" type="drawable"/><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-nb/strings.xml" qualifiers="nb"><string name="tw__like_tweet">Lik Tweet</string><string name="tw__liked_tweet">Angre Liker</string><string name="tw__loading_tweet">Laster inn tweeten</string><string name="tw__pause">pause</string><string name="tw__play">spill</string><string name="tw__replay">spill på nytt</string><string name="tw__retweeted_by_format">Retweetet av %1$s</string><string name="tw__share_content_format">Sjekk \@%1$s\s tweet: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Tweet fra %1$s (\@%2$s)</string><string name="tw__share_tweet">Del tweeten</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Tweet-medium</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-nb/const_strings.xml" qualifiers="nb"><string name="tw__relative_date_format_long">d.M.y</string><string name="tw__relative_date_format_short">d. MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-nb/plurals.xml" qualifiers="nb"><plurals name="tw__time_hours">
+        <item quantity="one">1 t</item>
+        <item quantity="other">%d t</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1 m</item>
+        <item quantity="other">%d m</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1 s</item>
+        <item quantity="other">%d s</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-gu/strings.xml" qualifiers="gu"><string name="tw__like_tweet">ટ્વીટ લાઈક કરો</string><string name="tw__liked_tweet">લાઈક પૂર્વવત કરો</string><string name="tw__loading_tweet">ટ્વીટ લોડ થઈ રહી છે</string><string name="tw__pause">અટકાવો</string><string name="tw__play">પ્લે કરો</string><string name="tw__replay">પુન પ્લે કરો</string><string name="tw__retweeted_by_format">%1$s દ્વારા પુનટ્વીટ કરાઈ</string><string name="tw__share_content_format">\@%1$s\ની ટ્વીટ તપાસો: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">%1$s (\@%2$s) તરફથી ટ્વીટ</string><string name="tw__share_tweet">ટ્વીટ શેર કરો</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">ટ્વીટ મીડિયા</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-gu/plurals.xml" qualifiers="gu"><plurals name="tw__time_hours">
+        <item quantity="one">1h</item>
+        <item quantity="other">%dh</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1m</item>
+        <item quantity="other">%dm</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1s</item>
+        <item quantity="other">%ds</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-v21/tw_tweet_text_styles.xml" qualifiers="v21"><style name="tw__TweetFullName" parent="tw__TweetFullNameBase">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-v21/themes.xml" qualifiers="v21"><style name="MediaTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+    </style></file><file name="tw__heart_animation_detail_60fps_00048" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00048.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00040" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00040.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00031" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00031.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__ic_video_pause_pressed" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__ic_video_pause_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00015" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00015.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__ic_tweet_verified" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__ic_tweet_verified.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00034" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00034.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00051" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00051.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__ic_seekbar_secondary_bg" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__ic_seekbar_secondary_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00056" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00056.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__ic_play_default" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__ic_play_default.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00024" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00024.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00058" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00058.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00002" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00002.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00052" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00052.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00030" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00030.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__ic_seekbar_progress_bg" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__ic_seekbar_progress_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00020" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00020.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00053" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00053.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00054" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00054.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00021" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00021.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00049" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00049.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__ic_logo_white" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__ic_logo_white.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00035" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00035.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00037" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00037.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00001" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00001.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00055" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00055.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00028" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00028.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00008" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00008.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__action_heart_off_default" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__action_heart_off_default.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__ic_video_replay" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__ic_video_replay.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00043" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00043.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00009" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00009.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00010" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00010.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00059" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00059.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__ic_vine_badge" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__ic_vine_badge.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00013" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00013.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00044" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00044.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00033" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00033.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__ic_logo_blue" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__ic_logo_blue.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00005" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00005.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00014" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00014.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__ic_video_play_pressed" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__ic_video_play_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00007" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00007.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00046" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00046.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00017" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00017.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00039" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00039.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00003" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00003.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__action_heart_on_default" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__action_heart_on_default.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00006" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00006.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00041" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00041.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__ic_retweet_light" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__ic_retweet_light.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__ic_gif_badge" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__ic_gif_badge.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00045" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00045.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00036" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00036.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00022" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00022.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00018" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00018.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00000" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00000.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__ic_seekbar_bg" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__ic_seekbar_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00047" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00047.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00029" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00029.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__ic_inline_share" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__ic_inline_share.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00025" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00025.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00038" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00038.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00027" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00027.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__ic_video_play" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__ic_video_play.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00026" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00026.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00042" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00042.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00011" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00011.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__ic_video_replay_pressed" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__ic_video_replay_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__ic_tweet_photo_error_light" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__ic_tweet_photo_error_light.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00016" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00016.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__ic_play_pressed" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__ic_play_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00023" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00023.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00057" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00057.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00004" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00004.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00050" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00050.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00032" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00032.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__ic_tweet_photo_error_dark" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__ic_tweet_photo_error_dark.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__ic_retweet_dark" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__ic_retweet_dark.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00012" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00012.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__heart_animation_detail_60fps_00019" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00019.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tw__ic_video_pause" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-xhdpi/tw__ic_video_pause.png" qualifiers="xhdpi-v4" type="drawable"/><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-sk/strings.xml" qualifiers="sk"><string name="tw__like_tweet">Obľúbiť si Tweet</string><string name="tw__liked_tweet">Zrušiť označenie Páči sa mi to</string><string name="tw__loading_tweet">Načítava sa Tweet</string><string name="tw__pause">pozastaviť</string><string name="tw__play">prehrať</string><string name="tw__replay">prehrať znova</string><string name="tw__retweeted_by_format">Retweetnuté používateľom %1$s</string><string name="tw__share_content_format">Pozrite si Tweet od používateľa \@%1$s\: https://twitter.com/%1$s/stav/%2$s</string><string name="tw__share_subject_format">Tweet od používateľa %1$s (\@%2$s)</string><string name="tw__share_tweet">Zdieľať Tweet</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Tweetnuť médiá</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-sk/plurals.xml" qualifiers="sk"><plurals name="tw__time_hours">
+        <item quantity="one">1 h</item>
+        <item quantity="other">%d h</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1 min</item>
+        <item quantity="other">%d min</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1 s</item>
+        <item quantity="other">%d s</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-it/strings.xml" qualifiers="it"><string name="tw__like_tweet">Metti Mi Piace al Tweet</string><string name="tw__liked_tweet">Non mi piace più</string><string name="tw__loading_tweet">Caricamento del Tweet in corso</string><string name="tw__pause">pausa</string><string name="tw__play">riproduci</string><string name="tw__replay">replay</string><string name="tw__retweeted_by_format">Ritwittato da %1$s</string><string name="tw__share_content_format">Dai un\'occhiata al Tweet di \@%1$s: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Tweet da %1$s (\@%2$s)</string><string name="tw__share_tweet">Condividi Tweet</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Contenuti dei Tweet</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-it/const_strings.xml" qualifiers="it"><string name="tw__relative_date_format_long">d/M/y</string><string name="tw__relative_date_format_short">d MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-it/plurals.xml" qualifiers="it"><plurals name="tw__time_hours">
+        <item quantity="one">1h</item>
+        <item quantity="other">%dh</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1m</item>
+        <item quantity="other">%dm</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1s</item>
+        <item quantity="other">%ds</item>
+    </plurals></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-el/strings.xml" qualifiers="el"><string name="tw__like_tweet">Μου αρέσει αυτό το Tweet</string><string name="tw__liked_tweet">Αναίρεση επιλογής \"Μου αρέσει\"</string><string name="tw__loading_tweet">Φόρτωση Tweet</string><string name="tw__pause">παύση</string><string name="tw__play">αναπαραγωγή</string><string name="tw__replay">εκ νέου αναπαραγωγή</string><string name="tw__retweeted_by_format">Έγινε Retweet από το χρήστη %1$s</string><string name="tw__share_content_format">Δείτε το Tweet του χρήστη  \@%1$s https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Tweet από το χρήστη %1$s (\@%2$s)</string><string name="tw__share_tweet">Κοινοποίηση Tweet</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Γράψτε ένα Tweet με πολυμέσο</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-el/plurals.xml" qualifiers="el"><plurals name="tw__time_hours">
+        <item quantity="one">1ω</item>
+        <item quantity="other">%dω</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1λ</item>
+        <item quantity="other">%dλ</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1δ</item>
+        <item quantity="other">%dδ</item>
+    </plurals></file><file name="tw__ic_video_pause_pressed" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__ic_video_pause_pressed.png" qualifiers="mdpi-v4" type="drawable"/><file name="tw__ic_tweet_verified" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__ic_tweet_verified.png" qualifiers="mdpi-v4" type="drawable"/><file name="tw__ic_seekbar_secondary_bg" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__ic_seekbar_secondary_bg.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="tw__ic_play_default" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__ic_play_default.png" qualifiers="mdpi-v4" type="drawable"/><file name="tw__ic_seekbar_progress_bg" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__ic_seekbar_progress_bg.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="tw__ic_logo_white" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__ic_logo_white.png" qualifiers="mdpi-v4" type="drawable"/><file name="tw__action_heart_off_default" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__action_heart_off_default.png" qualifiers="mdpi-v4" type="drawable"/><file name="tw__ic_video_replay" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__ic_video_replay.png" qualifiers="mdpi-v4" type="drawable"/><file name="tw__ic_vine_badge" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__ic_vine_badge.png" qualifiers="mdpi-v4" type="drawable"/><file name="tw__ic_logo_blue" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__ic_logo_blue.png" qualifiers="mdpi-v4" type="drawable"/><file name="tw__ic_video_play_pressed" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__ic_video_play_pressed.png" qualifiers="mdpi-v4" type="drawable"/><file name="tw__action_heart_on_default" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__action_heart_on_default.png" qualifiers="mdpi-v4" type="drawable"/><file name="tw__ic_retweet_light" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__ic_retweet_light.png" qualifiers="mdpi-v4" type="drawable"/><file name="tw__ic_gif_badge" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__ic_gif_badge.png" qualifiers="mdpi-v4" type="drawable"/><file name="tw__ic_seekbar_bg" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__ic_seekbar_bg.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="tw__ic_inline_share" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__ic_inline_share.png" qualifiers="mdpi-v4" type="drawable"/><file name="tw__ic_video_play" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__ic_video_play.png" qualifiers="mdpi-v4" type="drawable"/><file name="tw__ic_video_replay_pressed" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__ic_video_replay_pressed.png" qualifiers="mdpi-v4" type="drawable"/><file name="tw__ic_tweet_photo_error_light" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__ic_tweet_photo_error_light.png" qualifiers="mdpi-v4" type="drawable"/><file name="tw__ic_play_pressed" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__ic_play_pressed.png" qualifiers="mdpi-v4" type="drawable"/><file name="tw__ic_tweet_photo_error_dark" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__ic_tweet_photo_error_dark.png" qualifiers="mdpi-v4" type="drawable"/><file name="tw__ic_retweet_dark" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__ic_retweet_dark.png" qualifiers="mdpi-v4" type="drawable"/><file name="tw__ic_video_pause" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/drawable-mdpi/tw__ic_video_pause.png" qualifiers="mdpi-v4" type="drawable"/><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-pl/strings.xml" qualifiers="pl"><string name="tw__like_tweet">Polub Tweet</string><string name="tw__liked_tweet">Nie lubię</string><string name="tw__loading_tweet">Wczytywanie tweeta</string><string name="tw__pause">zatrzymaj</string><string name="tw__play">odtwórz</string><string name="tw__replay">odtwórz ponownie</string><string name="tw__retweeted_by_format">Podane dalej przez %1$s</string><string name="tw__share_content_format">Zobacz tweet od \@%1$s\: https://twitter.com/%1$s/status/%2$s</string><string name="tw__share_subject_format">Tweet od użytkownika %1$s (\@%2$s)</string><string name="tw__share_tweet">Udostępnij tweet</string><string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string><string name="tw__tweet_media">Multimedia z Tweeta</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-pl/const_strings.xml" qualifiers="pl"><string name="tw__relative_date_format_long">d.MM.y</string><string name="tw__relative_date_format_short">d MMM</string></file><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/main/res/values-pl/plurals.xml" qualifiers="pl"><plurals name="tw__time_hours">
+        <item quantity="one">1 godz.</item>
+        <item quantity="other">%d godz.</item>
+    </plurals><plurals name="tw__time_mins">
+        <item quantity="one">1 min</item>
+        <item quantity="other">%d min</item>
+    </plurals><plurals name="tw__time_secs">
+        <item quantity="one">1 s</item>
+        <item quantity="other">%d s</item>
+    </plurals></file></source><source path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/generated/res/rs/debug"/><source path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/debug/res"><file name="activity_tweet_view_test" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/debug/res/layout/activity_tweet_view_test.xml" qualifiers="" type="layout"/><file name="activity_invalid_tweet_id" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/debug/res/layout/activity_invalid_tweet_id.xml" qualifiers="" type="layout"/><file name="activity_tweet_actions_enabled" path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/debug/res/layout/activity_tweet_actions_enabled.xml" qualifiers="" type="layout"/><file path="/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/src/debug/res/values/styles.xml" qualifiers=""><style name="tw__TweetActionsEnabled">
+        <item name="tw__tweet_actions_enabled">true</item>
+    </style><style name="tw__TweetActionsDisabled">
+        <item name="tw__tweet_actions_enabled">false</item>
+    </style></file></source></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="AspectRatioFrameLayout">
+        <attr format="float" name="tw__frame_layout_aspect_ratio"/>
+        <attr format="enum" name="tw__frame_layout_dimension_to_adjust">
+            <enum name="height" value="0"/>
+            <enum name="width" value="1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="ToggleImageButton">
+        <attr format="boolean" name="state_toggled_on"/>
+        <attr format="string" name="contentDescriptionOn"/>
+        <attr format="string" name="contentDescriptionOff"/>
+        <attr format="boolean" name="toggleOnClick"/>
+    </declare-styleable><declare-styleable name="tw__TweetView">
+        <attr format="string" name="tw__tweet_id"/>
+        
+        <attr format="color" name="tw__container_bg_color"/>
+        <attr format="color" name="tw__primary_text_color"/>
+        <attr format="color" name="tw__action_color"/>
+        <attr format="color" name="tw__action_highlight_color"/>
+        <attr format="boolean" name="tw__tweet_actions_enabled"/>
+    </declare-styleable></configuration></mergedItems></merger>
