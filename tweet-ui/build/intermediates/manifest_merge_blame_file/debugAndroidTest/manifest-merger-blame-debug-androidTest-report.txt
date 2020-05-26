@@ -1,0 +1,78 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.twitter.sdk.android.tweetui.test" >
+4
+5    <uses-sdk
+5-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3412963885809252592.xml:5:5-74
+6        android:minSdkVersion="15"
+6-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3412963885809252592.xml:5:15-41
+7        android:targetSdkVersion="15" />
+7-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3412963885809252592.xml:5:42-71
+8
+9    <instrumentation
+9-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3412963885809252592.xml:11:5-15:86
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3412963885809252592.xml:11:22-75
+11        android:functionalTest="false"
+11-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3412963885809252592.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3412963885809252592.xml:13:22-53
+13        android:label="Tests for com.twitter.sdk.android.tweetui.test"
+13-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3412963885809252592.xml:15:22-84
+14        android:targetPackage="com.twitter.sdk.android.tweetui.test" />
+14-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3412963885809252592.xml:12:22-82
+15
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->[__tested_artifact__::tweet-ui] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:5-67
+16-->[__tested_artifact__::tweet-ui] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:22-64
+17
+18    <application
+18-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3412963885809252592.xml:7:5-9:19
+19        android:allowBackup="true"
+19-->[__tested_artifact__::tweet-ui] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.1.0] /home/luke/.gradle/caches/transforms-2/files-2.1/1cd7eff88f5e86d0249af2958bf465f0/core-1.1.0/AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+21-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3412963885809252592.xml:7:18-43
+22        android:largeHeap="true" >
+22-->[__tested_artifact__::tweet-ui] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:9-33
+23        <uses-library android:name="android.test.runner" />
+23-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3412963885809252592.xml:8:9-60
+23-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3412963885809252592.xml:8:23-57
+24
+25        <activity
+25-->[__tested_artifact__::tweet-ui] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:9-37:49
+26            android:name="com.twitter.sdk.android.tweetui.PlayerActivity"
+26-->[__tested_artifact__::tweet-ui] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:13-74
+27            android:configChanges="keyboardHidden|orientation|screenSize"
+27-->[__tested_artifact__::tweet-ui] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-74
+28            android:theme="@style/MediaTheme" />
+28-->[__tested_artifact__::tweet-ui] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-46
+29        <activity
+29-->[__tested_artifact__::tweet-ui] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:9-40:49
+30            android:name="com.twitter.sdk.android.tweetui.GalleryActivity"
+30-->[__tested_artifact__::tweet-ui] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-75
+31            android:theme="@style/MediaTheme" />
+31-->[__tested_artifact__::tweet-ui] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-46
+32        <activity
+32-->[:twitter-core] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:9-32:40
+33            android:name="com.twitter.sdk.android.core.identity.OAuthActivity"
+33-->[:twitter-core] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-79
+34            android:configChanges="orientation|screenSize"
+34-->[:twitter-core] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:13-59
+35            android:excludeFromRecents="true"
+35-->[:twitter-core] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:13-46
+36            android:exported="false" />
+36-->[:twitter-core] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:13-37
+37
+38        <provider
+38-->[com.squareup.picasso:picasso:2.71828] /home/luke/.gradle/caches/transforms-2/files-2.1/a3c725743d9bb4844ecd0ba42201d715/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+39            android:name="com.squareup.picasso.PicassoProvider"
+39-->[com.squareup.picasso:picasso:2.71828] /home/luke/.gradle/caches/transforms-2/files-2.1/a3c725743d9bb4844ecd0ba42201d715/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+40            android:authorities="com.twitter.sdk.android.tweetui.test.com.squareup.picasso"
+40-->[com.squareup.picasso:picasso:2.71828] /home/luke/.gradle/caches/transforms-2/files-2.1/a3c725743d9bb4844ecd0ba42201d715/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+41            android:exported="false" />
+41-->[com.squareup.picasso:picasso:2.71828] /home/luke/.gradle/caches/transforms-2/files-2.1/a3c725743d9bb4844ecd0ba42201d715/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+42    </application>
+43
+44</manifest>

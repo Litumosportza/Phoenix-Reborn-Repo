@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/res/merged/androidTest/debug/values-xxhdpi-v4_values-xxhdpi-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/packaged_res/debug/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/res/merged/androidTest/debug/values-xhdpi-v4_values-xhdpi-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/packaged_res/debug/values-xhdpi-v4/values-xhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/res/merged/androidTest/debug/values-hdpi-v4_values-hdpi-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/packaged_res/debug/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,116,168,226,285",
+                        "endColumns": "60,51,57,58,54",
+                        "endOffsets": "111,163,221,280,335"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/res/merged/androidTest/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/packaged_res/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,161,210,262,323,375,432,483,542,597",
+                        "endColumns": "52,52,48,51,60,51,56,50,58,54,65",
+                        "endOffsets": "103,156,205,257,318,370,427,478,537,592,658"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/res/merged/androidTest/debug/values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/packaged_res/debug/values-es/values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "71",
+                        "endOffsets": "122"
+                    }
+                }
+            ]
+        }
+    ]
+}

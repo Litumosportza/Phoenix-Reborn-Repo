@@ -33,7 +33,6 @@ import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProviders;
 import androidx.preference.PreferenceManager;
 
-import static java.lang.System.*;
 
 public class NotificationsFragment extends Fragment {
 

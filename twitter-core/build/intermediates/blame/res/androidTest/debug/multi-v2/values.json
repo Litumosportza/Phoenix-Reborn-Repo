@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/packaged_res/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,161,210,262,323,375,432,483,542,597",
+                        "endColumns": "52,52,48,51,60,51,56,50,58,54,65",
+                        "endOffsets": "103,156,205,257,318,370,427,478,537,592,658"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_tw__ic_logo_default.png.flat",
+        "source": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/packaged_res/debug/drawable-xxhdpi-v4/tw__ic_logo_default.png"
+    },
+    {
+        "merged": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/res/merged/androidTest/debug/layout_tw__activity_oauth.xml.flat",
+        "source": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/packaged_res/debug/layout/tw__activity_oauth.xml"
+    },
+    {
+        "merged": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_tw__ic_logo_default.png.flat",
+        "source": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/packaged_res/debug/drawable-hdpi-v4/tw__ic_logo_default.png"
+    },
+    {
+        "merged": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/res/merged/androidTest/debug/drawable_tw__login_btn_pressed.xml.flat",
+        "source": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/packaged_res/debug/drawable/tw__login_btn_pressed.xml"
+    },
+    {
+        "merged": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/res/merged/androidTest/debug/drawable_tw__login_btn_default.xml.flat",
+        "source": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/packaged_res/debug/drawable/tw__login_btn_default.xml"
+    },
+    {
+        "merged": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/res/merged/androidTest/debug/drawable_tw__login_btn.xml.flat",
+        "source": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/packaged_res/debug/drawable/tw__login_btn.xml"
+    },
+    {
+        "merged": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/res/merged/androidTest/debug/drawable_tw__login_btn_disabled.xml.flat",
+        "source": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/packaged_res/debug/drawable/tw__login_btn_disabled.xml"
+    },
+    {
+        "merged": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_tw__ic_logo_default.png.flat",
+        "source": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/packaged_res/debug/drawable-mdpi-v4/tw__ic_logo_default.png"
+    },
+    {
+        "merged": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_tw__ic_logo_default.png.flat",
+        "source": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/tw__ic_logo_default.png"
+    }
+]

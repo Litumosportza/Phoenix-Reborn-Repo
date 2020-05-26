@@ -1,2 +1,2 @@
 rootProject.name='Tweetox'
-include ':app', ':tweet-ui', ':twitter-core'
+include ':app', ':tweet-ui', ':twitter-core', ':twitter-mopub', ':tweet-composer', ':samples:app', ':twitter'

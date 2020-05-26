@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/tweet-ui/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/luke/.gradle/caches/transforms-2/files-2.1/f7fa931c10060cb31b4ececcd856b65d/appcompat-1.1.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "340",
+                        "endLines": "11",
+                        "endColumns": "13",
+                        "endOffsets": "612"
+                    }
+                },
+                {
+                    "source": "/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/packaged_res/debug/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,116,168,226,285",
+                        "endColumns": "60,51,57,58,54",
+                        "endOffsets": "111,163,221,280,335"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -17,6 +17,6 @@ public final class BuildConfig {
   public static final String VERSION_NAME = "3.3.0-SNAPSHOT";
   // Fields from build type: debug
   public static final String ARTIFACT_ID = "tweet-ui";
-  public static final long BUILD_TIME = 1588741195510L;
+  public static final long BUILD_TIME = 1590470891860L;
   public static final String GROUP = "com.twitter.sdk.android";
 }

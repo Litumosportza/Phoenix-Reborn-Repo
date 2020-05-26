@@ -1,0 +1,92 @@
+buildscript {
+    repositories {
+        maven { url 'https://artifactory-ci.twitter.biz/java-virtual'}
+    }
+
+    dependencies {
+        classpath dependency.spoonGradlePlugin
+        classpath dependency.androidGradlePlugin
+    }
+}
+
+// Load API Key information in from property file
+Properties props = new Properties()
+File propsFile = file('twitter.properties')
+if (propsFile.exists()) {
+    props.load(propsFile.newDataInputStream())
+} else if (System.env.TWITTER_KEY != null && System.env.TWITTER_SECRET != null) {
+    props.setProperty("twitterConsumerKey", System.env.TWITTER_KEY)
+    props.setProperty("twitterConsumerSecret", System.env.TWITTER_SECRET)
+} else {
+    throw new GradleException("Missing twitter.properties, check the twitter.properties.sample file.")
+}
+
+apply plugin: 'com.android.application'
+apply plugin: 'spoon'
+
+android {
+    compileSdkVersion rootProject.compileSdkVersion
+    buildToolsVersion rootProject.buildToolsVersion
+
+    defaultConfig {
+        applicationId "com.example.app.twitter"
+        versionCode 1
+        versionName "1.0"
+        minSdkVersion rootProject.minSdkVersion
+        targetSdkVersion rootProject.targetSdkVersion
+        testInstrumentationRunner "com.example.app.SpoonInstrumentationTestRunner"
+    }
+
+    buildTypes {
+        debug {
+            resValue "string", "com.twitter.sdk.android.CONSUMER_KEY", "\"${props.getProperty("twitterConsumerKey")}\""
+            resValue "string", "com.twitter.sdk.android.CONSUMER_SECRET", "\"${props.getProperty("twitterConsumerSecret")}\""
+            resValue "bool", "com.twitter.sdk.android.TRACE_ENABLED", "true"
+            resValue "bool", "com.twitter.sdk.android.COLLECT_IDENTIFIERS_ENABLED", "true"
+            buildConfigField "String", "MOPUB_AD_UNIT_ID", "\"${props.getProperty("mopubAdUnitId")}\""
+        }
+        release {
+            resValue "string", "com.twitter.sdk.android.CONSUMER_KEY", "\"${props.getProperty("twitterConsumerKey")}\""
+            resValue "string", "com.twitter.sdk.android.CONSUMER_SECRET", "\"${props.getProperty("twitterConsumerSecret")}\""
+            resValue "bool", "com.twitter.sdk.android.TRACE_ENABLED", "false"
+            resValue "bool", "com.twitter.sdk.android.COLLECT_IDENTIFIERS_ENABLED", "true"
+            buildConfigField "String", "MOPUB_AD_UNIT_ID", "\"${props.getProperty("mopubAdUnitId")}\""
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt')
+        }
+    }
+
+    packagingOptions {
+        exclude 'LICENSE.txt'
+    }
+
+    spoon {
+        if (project.hasProperty('spoonClassName')) {
+            className = project.spoonClassName
+        }
+    }
+
+    lintOptions {
+        warningsAsErrors true
+    }
+
+    compileOptions {
+        sourceCompatibility rootProject.sourceCompatibilityVersion
+        targetCompatibility rootProject.targetCompatibilityVersion
+    }
+}
+
+dependencies {
+    implementation project(path: ':sdk:twitter:twitter')
+    implementation project(path: ':sdk:twitter:twitter-mopub')
+    implementation dependency.appCompat
+    implementation dependency.design
+    implementation dependency.okHttpInterceptor
+
+    debugImplementation dependency.leakCanary
+    releaseImplementation dependency.leakCanaryNoOp
+
+    androidTestCompile dependency.spoon
+    androidTestCompile dependency.espresso
+    androidTestCompile dependency.androidTestingSupport
+}

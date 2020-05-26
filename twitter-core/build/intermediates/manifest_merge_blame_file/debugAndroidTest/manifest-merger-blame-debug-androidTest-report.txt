@@ -1,0 +1,48 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.twitter.sdk.android.core.test" >
+4
+5    <uses-sdk
+5-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4098901959784649298.xml:5:5-74
+6        android:minSdkVersion="15"
+6-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4098901959784649298.xml:5:15-41
+7        android:targetSdkVersion="15" />
+7-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4098901959784649298.xml:5:42-71
+8
+9    <instrumentation
+9-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4098901959784649298.xml:11:5-15:83
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4098901959784649298.xml:11:22-75
+11        android:functionalTest="false"
+11-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4098901959784649298.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4098901959784649298.xml:13:22-53
+13        android:label="Tests for com.twitter.sdk.android.core.test"
+13-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4098901959784649298.xml:15:22-81
+14        android:targetPackage="com.twitter.sdk.android.core.test" />
+14-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4098901959784649298.xml:12:22-79
+15
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->[__tested_artifact__::twitter-core] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-67
+16-->[__tested_artifact__::twitter-core] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:22-64
+17
+18    <application android:debuggable="true" >
+18-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4098901959784649298.xml:7:5-9:19
+18-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4098901959784649298.xml:7:18-43
+19        <uses-library android:name="android.test.runner" />
+19-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4098901959784649298.xml:8:9-60
+19-->/home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4098901959784649298.xml:8:23-57
+20
+21        <activity
+21-->[__tested_artifact__::twitter-core] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:9-32:40
+22            android:name="com.twitter.sdk.android.core.identity.OAuthActivity"
+22-->[__tested_artifact__::twitter-core] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-79
+23            android:configChanges="orientation|screenSize"
+23-->[__tested_artifact__::twitter-core] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:13-59
+24            android:excludeFromRecents="true"
+24-->[__tested_artifact__::twitter-core] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:13-46
+25            android:exported="false" />
+25-->[__tested_artifact__::twitter-core] /home/luke/floobits/share/lukehasawii/Phoenix-Reborn-Repo/twitter-core/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:13-37
+26    </application>
+27
+28</manifest>
